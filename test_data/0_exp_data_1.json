@@ -1,0 +1,1069 @@
+{
+    "data": {
+        "activities": {
+            "entities": [
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Victoria Coach Station, London SW1W 9RH, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "See the official residence of The Queen and home of the British monarchy for more than 900 years, explore the beautiful Georgian city of Bath and its ancient Roman Baths*, and uncover the mystery behind Stonehenge - the world\u0027s most famous Neolithic site.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 11,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3858EE021",
+                    "name": "Stonehenge, Windsor Castle, and Bath from London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0b\/74\/4d\/ab.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 148.94,
+                                "currency": "AUD",
+                                "formattedAmount": "$148.94",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 79,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a379.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 94.25,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac94.25",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 106.41,
+                                "currency": "USD",
+                                "formattedAmount": "$106.41",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Vauxhall Bridge Road, Vauxhall Bridge Rd, Pimlico, London, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "19 Duke St Hill, London SE1 2SW, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "For 2 hours, your tour guide will whisk you away on a magical adventure to explore the Harry Potter movie locations in London. Uncover places that inspired J. K. Rowling and hear about the weird and wonderful behind-the-scenes stories.\n\nYou will be led in small groups of a maximum 15 people as you cover some London landmarks passed on the tour as a little bonus.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 2,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-42233P1",
+                    "name": "Tour for Muggles",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/6c\/39\/32.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 31.579999999999998,
+                                "currency": "AUD",
+                                "formattedAmount": "$31.58",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 16.75,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a316.75",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 19.98,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac19.98",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 22.559999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$22.56",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "8 Cecil Ct, London WC2N 4HE, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Outdoor Activities",
+                    "departureInfo": "London Eye Pier, London SE1 7PB, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Combine London sightseeing with a white-knuckle speedboat ride on a 50-minute Thames River cruise. Board your modern RIB (rigid-inflatable boat) and soak up the unparalleled views of top city attractions including Big Ben, the London Eye and St Paul\u2019s Cathedral. Learn about the city\u2019s history from your entertaining guide, and then feel your adrenaline rush as your skipper pulls back the throttle and you rocket along the Thames River at speeds of up to 35 miles (56 km) per hour. Small-group experience with numbers limited to 12 people.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "MINUTES",
+                        "value": 50,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-6918ULA",
+                    "name": "High-Speed Thames River RIB Cruise in London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0a\/84\/42\/09.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 84.739999999999995,
+                                "currency": "AUD",
+                                "formattedAmount": "$84.74",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 44.950000000000003,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a344.95",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 53.630000000000003,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac53.63",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 60.539999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$60.54",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Food \u0026 Drink",
+                    "departureInfo": "30 Newgate St, London EC4M 7EJ, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Discover ancient ale houses and literary drinking dens on a 3-hour afternoon pub tour of London. Centered on the area in and around the City of London, the tour visits at least four of London\u2019s finest historical pubs, your guide will recommend different ales in each (not included). Hear the history of the pubs, learn the differences between Elizabethan coaching inns and Victorian gin palaces, and visit the watering holes frequented by legendary British novelist Charles Dickens. Numbers are limited to 14 on this small-group pub tour, ensuring you\u2019ll enjoy personalized attention from your guide.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 5.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-5452DRINK",
+                    "name": "Small-Group Tour: Historical Pub Walking Tour of London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/09\/ae\/e8\/7d.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 47.020000000000003,
+                                "currency": "AUD",
+                                "formattedAmount": "$47.02",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 25,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a325.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 29.800000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac29.8",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 33.729999999999997,
+                                "currency": "USD",
+                                "formattedAmount": "$33.73",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Holborn, Kingsway, London WC2B 6AA, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Up at The O2, Peninsula Square, London SE10 0DX, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Enjoy a bird\u2019s eye view over the UK\u2019s capital city on this 1.5-hour O2 climb in London. With your harness and safety line attached, follow a guide on the 170-foot (52-metre) climb to the top of The O2 \u2014 the world\u2019s most popular live music venues. From your vantage point on the roof of The O2, admire uninterrupted views of London landmarks like Greenwich Park, Canary Wharf, and the Queen Elizabeth Olympic Park. Capture the views on camera, then return in safety to ground level.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-12109P3",
+                    "name": "Up at The O2 Climb in London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/3b\/be\/06.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 60.329999999999998,
+                                "currency": "AUD",
+                                "formattedAmount": "$60.33",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 32,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a332.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 38.18,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac38.18",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 43.100000000000001,
+                                "currency": "USD",
+                                "formattedAmount": "$43.1",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Whitechapel Gallery, 77-82 Whitechapel High St, London E1 7QX, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "RIPPER-VISION\u2122 is a new approach to Jack the Ripper tours. Top of the range hand held projectors which emblazon five-foot images upon the dark streets and alleyways of Whitechapel.This brings not only top class images, but also film clips, moving images and overlapping pictures to leave you with an everlasting memorable experience.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.25,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-23256P1",
+                    "name": "Jack the Ripper Tour with \u0027Ripper-Vision\u0027 in London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/71\/41\/53.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 28.280000000000001,
+                                "currency": "AUD",
+                                "formattedAmount": "$28.28",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 15,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a315.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 17.899999999999999,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac17.9",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 20.199999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$20.2",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "101 Commercial St, London E1 6BG, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "London Eye, Westminster Bridge Road Riverside Building, County Hall, London SE1 7PB England",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Fast Track for a perfect London Eye experience! With fast track entry for your flight in a shared capsule, you get to skip the majority of the queue. Don\u0027t waste time waiting in lines on vacation! The London Eye offers spectacular views of the capital of England from high above the River Thames. The famous landmarks to be seen include Big Ben and the Houses of Parliament, St. Paul\u0027s Cathedral, Buckingham Palace and Westminster Abbey. Visit includes entry to the London Eye 4D Experience, an inspiring journey of discovery that brings London to life through multi-sensory special effects.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "MINUTES",
+                        "value": 30,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2988LONDON_EYE",
+                    "name": "London Eye Fast-Track Ticket",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0a\/91\/40\/20.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 69.75,
+                                "currency": "AUD",
+                                "formattedAmount": "$69.75",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 37,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a337.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 44.140000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac44.14",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 49.840000000000003,
+                                "currency": "USD",
+                                "formattedAmount": "$49.84",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": null,
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Victoria Coach Station, London SW1W 9RH, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Explore the beautiful scenery of the English countryside on this full-day tour of Windsor, Stonehenge, Lacock and Bath. Head to Windsor, home of the British Royal Family famous for Windsor Castle. Over 900 years of royal history are waiting for you there. Continue onward to the 5,000-year-old prehistoric site of Stonehenge with a guide, and ponder over its use in centuries past. Visit the charming English village of Lacock for a traditional pub lunch, and finally, enjoy a coach tour of Georgian city of Bath as well as a short walking tour.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 23.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2452T1",
+                    "name": "Stonehenge, Windsor Castle and Bath with Pub Lunch in Lacock ",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/70\/25\/b4.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 141.38999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$141.39",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 75,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a375.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 89.480000000000004,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac89.48",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 101.02,
+                                "currency": "USD",
+                                "formattedAmount": "$101.02",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Gloucester Road Station, South Kensington, London SW7 4SF, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "Victoria Coach Station, 164 Buckingham Palace Rd, London SW1W 9TP, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Delve into the magical world of Harry Potter\u2122 at the Warner Bros. Studio Tour London, with round-trip luxury coach transport included. Follow in the footsteps of Hogwarts\u2019 students as you walk around original sets like Diagon Alley and Platform 9 \u00be, complete with the Hogwarts Express steam engine. Get up close to costumes and props, and discover the wizardry required to create the mind-blowing special effects and animatronics.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 7,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2452POTTER",
+                    "name": "Harry Potter Tour of Warner Bros. Studio with Transport from London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/70\/25\/9c.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 167.78999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$167.79",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 89,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a389.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 106.18000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac106.18",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 119.88,
+                                "currency": "USD",
+                                "formattedAmount": "$119.88",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Victoria Station, Victoria St, London SW1E 5ND, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Millennium Gloucester Hotel London Kensington, 4-18 Harrington Gardens, South Kensington, London SW7 4LH, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Take an early or late-access tour of Stonehenge, and walk inside the UNESCO-listed stone circle without any of its daytime crowds. Choose from a morning or evening tour and explore the inner circle of stones \u2014 an experience only available to your group. Depending on the time of year, you might even catch the sunset or sunrise, too. This exclusive once-in-a-lifetime experience, which additionally includes tours of Lacock and Bath, sells out quick as tickets are limited; book now for an excursion you won\u2019t forget!",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 19.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2452T2",
+                    "name": "Inner Circle Access of Stonehenge including Bath and Lacock Day Tour from London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/70\/25\/cc.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 279.01999999999998,
+                                "currency": "AUD",
+                                "formattedAmount": "$279.02",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 148,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3148.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 176.58000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac176.58",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 199.34,
+                                "currency": "USD",
+                                "formattedAmount": "$199.34",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Gloucester Road Station, South Kensington, London SW7 4SF, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "London Bicycle Tour Company., 74 Kennington Rd, London SE11 6NL, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Get up close to some of the most powerful and historic buildings in the world on this 3.5 hour bike tour of central London. Follow a guide as you take in the architectural diversity of Westminster, Buckingham Palace, and St. Paul\u2019s Cathedral; explore the bustling Covent Garden; and brush shoulders with the bronze lions in Trafalgar Square.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 5.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3862BICYCLE",
+                    "name": "Classic London Landmarks Bicycle Tour ",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/71\/41\/da.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 66.349999999999994,
+                                "currency": "AUD",
+                                "formattedAmount": "$66.35",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 34.950000000000003,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a334.95",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 42,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac42.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 47.380000000000003,
+                                "currency": "USD",
+                                "formattedAmount": "$47.38",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Kingscote Street, Kingscote St, London EC4Y, UKTraveler pickup is offered Anywhere in Zone 1, central London",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "We are small but London is BIG. With 9 million locals, 50,000 streets, 30,000 restaurants and 250 museums, how can you ever decide on what to do?! You might not want to trawl through a guide book for hours to find the really good stuff \u2013 and you will be glad to hear don\u2019t have to either. See the capital through the eyes of a local on this panoramic London tour. You will be picked up in a restored classic Mini Cooper and have your very own private guide to show you the sights and sounds of this great city.\n\nSee world-famous landmarks such as the Houses of Parliament, St Pauls Cathedral and The Shard, but also the hidden gems that so often get missed \u2013 Street Art in the Leake Street Tunnel, quirky back streets of Covent Garden and local markets \u2013 the ultimate panoramic London tour!",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 2,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-5231P2",
+                    "name": "Private Tour of London in a Classic Car",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0a\/5b\/5d\/44.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 506.19,
+                                "currency": "AUD",
+                                "formattedAmount": "$506.19",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 268.5,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3268.5",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 320.33999999999997,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac320.34",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 361.64999999999998,
+                                "currency": "USD",
+                                "formattedAmount": "$361.65",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Victoria Coach Station, 164 Buckingham Palace Rd, London SW1W 9TP, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Sit back and relax as you travel by luxury air-conditioned coach from London to the UNESCO World Heritage-listed city of Bath. On your way, discover the iconic prehistoric stone formation of Stonehenge. Spend a full afternoon exploring Bath, and take advantage of the opportunity to see the ancient Roman Baths or the Jane Austen Visitor Centre.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 21.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2452BATH",
+                    "name": "Stonehenge and Bath Day Trip from London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/0d\/1c\/8c.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 133.84999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$133.85",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 71,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a371.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 84.709999999999994,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac84.71",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 95.629999999999995,
+                                "currency": "USD",
+                                "formattedAmount": "$95.63",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Gloucester Road Station, South Kensington, London SW7 4SF, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Food \u0026 Drink",
+                    "departureInfo": "6 Tooley St, London SE1 2SY, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Your guides are real foodies, and they have made it their goal to introduce visitors to the \u2018excellence of British\u2019 traditional food. The guides will be sharing with you their local knowledge of the dining culture and latest gastronomy trends. The local guides will take you to food shops, beloved by the area\u2019s locals, and we are sure that you\u2019ll fall in love with them too.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 5.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-7812P2",
+                    "name": "Secret Food Tour: London Bridge \u0026 Borough Market w\/ Private Tour Option",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/83\/05\/46.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 138.87,
+                                "currency": "AUD",
+                                "formattedAmount": "$138.87",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 73.829999999999998,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a373.83",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 88.010000000000005,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac88.01",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 99.620000000000005,
+                                "currency": "USD",
+                                "formattedAmount": "$99.62",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Tower Bridge, United Kingdom",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Bulleid Way, London SW1W, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "This wonderful day trip will take you to three of the UK\u2019s most iconic locations- royal Windsor Castle, mysterious Stonehenge and charming Bath. Make sure you are in Victoria for 8am as your coach will be leaving at 8:30am sharp!\n\nHighlights of the tour:\n\u2022 Discover three of the UK\u2019s most famous attractions\n\u2022 Enjoy the opulence of Windsor Castle\n\u2022 Fall for the beautiful city of Bath\n\u2022 Walk around the historical Roman Baths\n\u2022 See if you can uncover the mystery of Stonehenge\n\n",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 12,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-5461P8",
+                    "name": "Windsor Castle, Stonehenge and Bath Tour from London with Admission",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/6e\/fb\/8b.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 122.54000000000001,
+                                "currency": "AUD",
+                                "formattedAmount": "$122.54",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 65,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a365.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 77.549999999999997,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac77.55",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 87.549999999999997,
+                                "currency": "USD",
+                                "formattedAmount": "$87.55",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Bulleid Way, London SW1W, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Warner Bros. Studio Tour London provides an amazing new opportunity to explore the magic of the Harry Potter\u2122 films \u2013 the most successful film series of all time. \n\nThis unique tour takes you behind-the-scenes and showcases a huge array of beautiful sets, costumes and props. It also reveals some closely guarded secrets, including facts about the special effects and animatronics that made these films so hugely popular all over the world.\n\nHighlights:\n- Return transportation from Central London with branded buses\n- Meet and greet service before departure\n- Upon arrival at the Studio Tour customers will be welcomed by the supplier\u0027s representative\n- Exclusive opportunity to watch one of the Harry Potter films during your journey to and from the Studio Tour (subject to availability)\n- See the actual props, costumes and effects from the Harry Potter film series\n- Hourly departures\n- Begin your experience with an official introductory video \n- Free Wi-Fi available",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 8,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-5461POTTERSTUDIO",
+                    "name": "Warner Bros. Studio Tour London - The Making of Harry Potter with Transportation",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0b\/25\/f6\/e9.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 173.44,
+                                "currency": "AUD",
+                                "formattedAmount": "$173.44",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 92,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a392.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 109.76000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac109.76",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 123.92,
+                                "currency": "USD",
+                                "formattedAmount": "$123.92",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "Evan Evans Tours, 258 Vauxhall Bridge Rd, London SW1V 1BS, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Walk in the footsteps of Harry Potter and explore the wonders of the wizarding world. This magical tour of the Warner Bros. Studio will leave you spellbound!\n\nStep onto the breath-taking sets and take a glimpse behind the scenes of everyone\u2019s favourite wizard from the Harry Potter films on this spectacular Harry Potter Studio Tour.\n\nWalk through the doors of the Great Hall into the dining room, where the Sorting Hat famously sorted Hogwarts students into their houses. Can you find all of the golden snitches hidden in the set? Peer into the Gryffindor common room, Snape\u2019s lab and the office of Professor Albus Dumbledore before making your way to the Forbidden Forest, where you\u2019ll encounter a full-size model of Buckbeak and meet face-to-face with the giant spider, Aragog.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 7,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3858EE010",
+                    "name": "Warner Bros. Studio: The Making of Harry Potter with Luxury Round-Trip Transport from London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0b\/24\/17\/4d.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 167.78999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$167.79",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 89,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a389.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 106.18000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac106.18",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 119.88,
+                                "currency": "USD",
+                                "formattedAmount": "$119.88",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "1: London Eye, London SE1, UK2: DoubleTree by Hilton Hotel London - Victoria, 2 Bridge Pl, Pimlico, London SW1V 1QA, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Join us on a 12-hour tour from London to Bath, Stonehenge and a Secret Place. This tour takes you off the beaten path and down narrow country roads through the quintessential English countryside. We will visit the world famous prehistoric stone circle, that is Stonehenge and marvel at the mysteries that surround it. We will visit the spa city and UNESCO World Heritage City of Bath, founded by the Romans and now dripping in gorgeous Georgian architecture, and of course - a visit to our highly coveted secret place. We are certain you will love it, but where could it be? You\u0027ll have to come with us to find out. Maximum of 16 passenger per tour for a small group experience.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 12,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-8965P1",
+                    "name": "Small Group Stonehenge, Bath and Secret Place Tour from London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/75\/a4\/ed.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 204.55000000000001,
+                                "currency": "AUD",
+                                "formattedAmount": "$204.55",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 108.5,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3108.5",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 129.44999999999999,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac129.45",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 146.13999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$146.14",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "Piccadilly Circus, London W1B, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "The most fun 1.5-hour tour in London. Watch the Changing of the Guard with an experienced and acclaimed guide, where you\u0027ll be taken to the best places to see the ceremony. Along the way you\u0027ll see palaces, royal parks, royal residences and even have an opportunity to march alongside the guards. The walk is interesting for adults, fun for kids, and will almost certainly be the highlight of your stay in London.\nPlease note that you will not see the section of the ceremony on the courtyard of Buckingham Palace, but rather the other highlights of the ceremony. ",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-9086P1",
+                    "name": "Changing of the Guard Guided Walking Tour in London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/75\/ab\/81.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 35.740000000000002,
+                                "currency": "AUD",
+                                "formattedAmount": "$35.74",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 19,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a319.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 22.649999999999999,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac22.65",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 25.640000000000001,
+                                "currency": "USD",
+                                "formattedAmount": "$25.64",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "The Mall, St. James\u0027s, London, UK",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Victoria Coach Station, London SW1W 9RH, UK",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Windsor has been the home of Kings and Queens for centuries. Wander its cobbled streets and see the largest occupied castle in the world - home of the English and British monarchy for more than 900 years and official residence of Her Majesty The Queen.\n\nStonehenge is a must-see icon of England and with a history spanning 4,500 years, it has many different meanings to people today. Stonehenge is a wonder of the world, a spiritual place and a source of inspiration.\n\nPlus, discover the beautiful English city of Oxford, home to the world-famous university and incredible architecture dating back to Saxon times.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 21.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3858EE065",
+                    "name": "Windsor Castle, Stonehenge, and Oxford Day Trip from London",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0b\/74\/4d\/ab.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 122.54000000000001,
+                                "currency": "AUD",
+                                "formattedAmount": "$122.54",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 65,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a365.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 77.549999999999997,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac77.55",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 87.549999999999997,
+                                "currency": "USD",
+                                "formattedAmount": "$87.55",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Victoria Station, Victoria St, London SW1E 5ND, UK",
+                    "__typename": "PartnerActivity"
+                }
+            ],
+            "__typename": "FindPartnerActivitiesResult"
+        }
+    }
+}

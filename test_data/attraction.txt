@@ -1,0 +1,544 @@
+page:1
+地点：Eiffel Tower  评分5
+地点：Centre Pompidou  评分5
+地点：Sainte-Chapelle  评分5
+地点：Musée du Louvre  评分5
+地点：Les Catacombes  评分5
+地点：Musée Rodin  评分5
+地点：Jardin du Luxembourg  评分5
+地点：Panthéon  评分5
+地点：Musée d’Orsay  评分5
+地点：Jardin des Tuileries  评分4
+地点：Station F  评分4
+地点：Arc de Triomphe  评分4
+地点：Cimetière du Père Lachaise  评分5
+地点：Basilique du Sacré-Cœur  评分5
+地点：Cathédrale Notre Dame de Paris  评分5
+地点：Hôtel des Invalides  评分5
+地点：Musée National Picasso  评分5
+地点：Promenade Plantée  评分4
+地点：Jardin du Palais Royal  评分4
+地点：Musée des Arts et Métiers  评分4
+地点：Canal St-Martin  评分4
+地点：Grand Palais  评分4
+地点：Musée Carnavalet  评分4
+地点：Monnaie de Paris  评分4
+地点：Musée de Montmartre  评分4
+地点：Musée National du Moyen Âge  评分4
+地点：Église St-Sulpice  评分4
+地点：Hôtel de la Marine  评分4
+地点：Église St-Eustache  评分4
+地点：Musée Jacquemart-André  评分4
+地点：La Butte aux Cailles  评分4
+地点：Bois de Vincennes  评分4
+地点：Église St-Germain des Prés  评分4
+地点：Parc Monceau  评分4
+地点：Musée de l’Orangerie  评分4
+地点：Ground Control  评分4
+地点：Institut du Monde Arabe  评分4
+地点：Parc Rives de Seine  评分4
+地点：Cité des Sciences et de l'Industrie  评分4
+地点：Place des Vosges  评分4
+page:2
+地点：La REcyclerie  评分4
+地点：Cinémathèque Française  评分4
+地点：Parc Rives de Seine  评分4
+地点：Tour Montparnasse  评分4
+地点：Palais Garnier  评分4
+地点：Musée Yves Saint Laurent Paris  评分4
+地点：Musée Marmottan Monet  评分4
+地点：Musée Guimet des Arts Asiatiques  评分4
+地点：Art 42  评分4
+地点：Atelier des Lumières  评分4
+地点：L'Oasis d'Aboukir  评分4
+地点：Musée National Eugène Delacroix  评分4
+地点：Mémorial de la Shoah  评分4
+地点：Philharmonie de Paris  评分4
+地点：Maison de Victor Hugo  评分4
+地点：Le Mur des je t'aime  评分4
+地点：Ballon de Paris  评分4
+地点：Île aux Cygnes  评分4
+地点：Lafayette Anticipations  评分4
+地点：Cimetière du Montparnasse  评分4
+地点：Église du Dôme  评分4
+地点：Musée du Quai Branly – Jacques Chirac  评分4
+地点：Cité de l’Architecture et du Patrimoine  评分4
+地点：Mosquée de Paris  评分4
+地点：Musée de l’Armée  评分4
+地点：Muséum National d’Histoire Naturelle  评分3
+地点：Basilique de St-Denis  评分3
+地点：Conciergerie  评分3
+地点：Parc du Champ de Mars  评分3
+地点：Musée des Arts Décoratifs  评分3
+地点：Pavillon de l'Arsenal  评分3
+地点：Château de Vincennes  评分3
+地点：Pont Neuf  评分3
+地点：Hôtel de Sully  评分3
+地点：Chapelle Notre-Dame de la Médaille Miraculeuse  评分3
+地点：Jardin des Plantes  评分3
+地点：Église St-Étienne du Mont  评分3
+地点：Collection Pinault – Paris  评分3
+地点：Brasserie BapBap  评分3
+地点：Nouveau Musée du Parfum  评分3
+page:3
+地点：Parc de la Villette  评分3
+地点：Place de la Concorde  评分3
+地点：La Cité Fleurie  评分3
+地点：Bibliothèque Nationale de France  评分3
+地点：Les Docks  评分3
+地点：Musée des Archives Nationales  评分3
+地点：Église de la Madeleine  评分3
+地点：Musée Nissim de Camondo  评分3
+地点：Parc des Buttes Chaumont  评分3
+地点：Bois de Boulogne  评分3
+地点：Musée d’Art et d’Histoire  评分3
+地点：Palais de Chaillot  评分3
+地点：Église St-Germain l’Auxerrois  评分3
+地点：Parc Floral de Paris  评分3
+地点：Grande Galerie de l’Évolution  评分3
+地点：Musée d’Art et d’Histoire du Judaïsme  评分3
+地点：Opéra Bastille  评分3
+地点：Palais de Tokyo  评分3
+地点：Parc Zoologique de Paris  评分3
+地点：Musée en Herbe  评分3
+地点：Parc Montsouris  评分3
+地点：Place Vendôme  评分3
+地点：Place du Tertre  评分3
+地点：Petite Ceinture du 15e  评分3
+地点：Marché International de Rungis  评分3
+地点：Musée Cognacq-Jay  评分3
+地点：Parc de Bercy  评分3
+地点：Brasserie la Goutte d'Or  评分3
+地点：Musée de la Musique  评分3
+地点：Avenue des Champs-Élysées  评分3
+地点：Musée de la Vie Romantique  评分3
+地点：Musée de l’Histoire de l’Immigration  评分3
+地点：Parc André Citroën  评分3
+地点：Petit Palais  评分3
+地点：Institut Giacometti  评分3
+地点：Parc Georges Brassens  评分3
+地点：Musée Maillol  评分3
+地点：Musée Édith Piaf  评分3
+地点：Square René Viviani  评分3
+地点：Le Bateau Ivre  评分3
+page:4
+地点：Jardin d’Acclimatation  评分3
+地点：Musée Cernuschi  评分3
+地点：Cité Florale  评分3
+地点：Fondation Louis Vuitton  评分3
+地点：Fondation Henri Cartier-Bresson  评分3
+地点：Musée National Gustave Moreau  评分3
+地点：Crypte Archéologique  评分3
+地点：Square Maurice Gardette  评分3
+地点：Jardin Nelson Mandela  评分3
+地点：Square du Vert-Galant  评分3
+地点：Petite Ceinture du 12e  评分3
+地点：Musée Atelier Zadkine  评分3
+地点：Le Passe-Muraille  评分3
+地点：Cimetière de Montmartre  评分3
+地点：Tour St-Jacques  评分3
+地点：Musée des Égouts de Paris  评分3
+地点：Rue Crémieux  评分3
+地点：Maison Européenne de la Photographie  评分3
+地点：Parc de Belleville  评分3
+地点：Pont Alexandre III  评分3
+地点：Puits Artésien de la Butte aux Cailles  评分3
+地点：Le 104  评分3
+地点：Parc de Bagatelle  评分3
+地点：Église St-Vincent de Paul  评分3
+地点：Tour Jean sans Peur  评分3
+地点：Musée Bourdelle  评分3
+地点：Bouquet of Tulips  评分3
+地点：Palais de la Découverte  评分3
+地点：Parc Astérix  评分3
+地点：Théâtre-Musée des Capucines  评分3
+地点：Musée d’Art Moderne de la Ville de Paris  评分3
+地点：Jardin de la Nouvelle France  评分3
+地点：Mémorial des Martyrs de la Déportation  评分3
+地点：Citéco  评分3
+地点：FluctuArt  评分3
+地点：Galerie de Minéralogie et de Géologie  评分3
+地点：Dalí Paris  评分3
+地点：Musée de la Libération de Paris – Musée du Général Leclerc – Musée Jean Moulin  评分3
+地点：L'Aerosol  评分3
+地点：La Ménagerie  评分3
+page:5
+地点：Musée de l’Homme  评分3
+地点：Jeu de Paume  评分3
+地点：Galerie des Enfants  评分3
+地点：Basilique Ste-Clotilde  评分3
+地点：Musée de la Chasse et de la Nature  评分3
+地点：Galerie des Gobelins  评分3
+地点：Église St-Ambroise  评分3
+地点：Fondation Cartier pour l’Art Contemporain  评分3
+地点：Halle St-Pierre  评分3
+地点：Hôtel de Ville  评分3
+地点：Palais Galliera  评分3
+地点：Ben art work  评分3
+地点：Les Grandes Serres et Galerie de Botanique  评分3
+地点：Le MUR  评分3
+地点：Galerie Itinerrance  评分3
+地点：Arènes de Lutèce  评分3
+地点：Statue of Général Charles de Gaulle  评分3
+地点：Maison de Balzac  评分3
+地点：Musée du Parfum Scribe  评分3
+地点：Atelier Brancusi  评分3
+地点：Abbesses Metro Entrance  评分3
+地点：Grande Pyramide  评分3
+地点：Place du Marché Ste-Catherine  评分3
+地点：Galerie de Paléontologie et d’Anatomie Comparée  评分3
+地点：Église St-Séverin  评分3
+地点：Lac Daumesnil  评分3
+地点：Grand Bassin  评分3
+地点：Immeuble Lavirotte  评分3
+地点：Musée du Luxembourg  评分3
+地点：Place de la Bastille  评分2
+地点：Sorbonne  评分2
+地点：Église St-Pierre de Montmartre  评分2
+地点：Forum des Halles  评分2
+地点：Abbaye Royale du Val-de-Grâce  评分2
+地点：Institut de France  评分2
+地点：59 Rivoli  评分2
+地点：Institut des Cultures d'Islam-Léon  评分2
+地点：Le Bateau Lavoir  评分2
+地点：Arc de Triomphe du Carrousel  评分2
+地点：Grande Arche de la Défense  评分2
+page:6
+地点：Playground Duperré  评分2
+地点：Aquarium Tropical  评分2
+地点：Musée du Vin  评分2
+地点：Cathédrale de la Sainte-Trinité de Paris  评分2
+地点：Fondation Dubuffet  评分2
+地点：Colonne de Juillet  评分2
+地点：Moulin Blute Fin  评分2
+地点：Point Zéro des Routes de France  评分2
+地点：Rue Dénoyez  评分2
+地点：Fontaine des Médicis  评分2
+地点：Moulin Radet  评分2
+地点：Clos Montmartre  评分2
+地点：Institut des Cultures d'Islam-Goutte d'Or  评分2
+地点：Ernest Hemingway's Apartment  评分2
+地点：Chapelle Expiatoire  评分2
+地点：Immeuble des Bons Enfants  评分2
+地点：Stade Roland Garros-Musée de la Fédération Française de Tennis  评分2
+地点：Aquarium de Paris Cinéaqua  评分2
+地点：Art Nouveau Synagogue  评分2
+地点：Musée de la Marine  评分2
+地点：Musée Grévin  评分2
+地点：George Orwell's Boarding House  评分2
+地点：Galerie-Musée Baccarat  评分2
+地点：Hôtel d'Heidelbach  评分2
+地点：Jardin des Serres d’Auteuil  评分2
+地点：Chapelle de la Sorbonne  评分2
+地点：Palais du Luxembourg  评分2
+地点：Musée de la Magie  评分2
+地点：Église St-Louis en l'Île  评分2
+地点：Flame of Liberty Memorial  评分2
+地点：Collège des Bernardins  评分2
+地点：Le Mur du Marais  评分2
+地点：Jardin de l’Atlantique  评分2
+地点：Fontaine des Innocents  评分2
+地点：Palais de l’Élysée  评分2
+地点：Colonne Vendôme  评分2
+地点：Conseil d’État  评分2
+地点：Building Where Jim Morrison Died  评分2
+地点：James Joyce's Flat  评分2
+地点：Porte St-Denis  评分2
+page:7
+地点：Orangery  评分2
+地点：Pré Catelan  评分2
+地点：Marché de St-Honoré  评分2
+地点：5bis Rue Verneuil (Serge Gainsbourg's Former Home)  评分2
+地点：Académie Française  评分2
+地点：Musée de la Sculpture en Plein Air  评分2
+地点：Statue of Liberty Replica  评分2
+地点：Bibliothèque Mazarine  评分2
+地点：Porte St-Martin  评分2
+地点：Pont St-Louis  评分2
+地点：Le Bal  评分2
+地点：Ministère des Affaires Étrangères  评分2
+地点：Pavillon Davioud  评分2
+地点：Wall for Peace Memorial  评分2
+地点：Espace Beaurepaire  评分2
+地点：Rucher du Luxembourg  评分2
+地点：Paul Verlaine's Garret  评分2
+地点：Orchards  评分2
+地点：Église St-Laurent  评分2
+地点：Hôtel Matignon  评分2
+地点：Georges Danton Statue  评分2
+地点：Louvre Porte des Lions Entrance  评分2
+地点：Galerie des Galeries  评分2
+地点：Château de Bagatelle  评分2
+地点：Église Notre Dame de Lorette  评分2
+page:1
+地点：Eiffel Tower  评分5
+地点：Centre Pompidou  评分5
+地点：Sainte-Chapelle  评分5
+地点：Musée du Louvre  评分5
+地点：Les Catacombes  评分5
+地点：Musée Rodin  评分5
+地点：Jardin du Luxembourg  评分5
+地点：Panthéon  评分5
+地点：Musée d’Orsay  评分5
+地点：Jardin des Tuileries  评分4
+地点：Station F  评分4
+地点：Arc de Triomphe  评分4
+地点：Cimetière du Père Lachaise  评分5
+地点：Basilique du Sacré-Cœur  评分5
+地点：Cathédrale Notre Dame de Paris  评分5
+地点：Hôtel des Invalides  评分5
+地点：Musée National Picasso  评分5
+地点：Promenade Plantée  评分4
+地点：Jardin du Palais Royal  评分4
+地点：Musée des Arts et Métiers  评分4
+地点：Canal St-Martin  评分4
+地点：Grand Palais  评分4
+地点：Musée Carnavalet  评分4
+地点：Monnaie de Paris  评分4
+地点：Musée de Montmartre  评分4
+地点：Musée National du Moyen Âge  评分4
+地点：Église St-Sulpice  评分4
+地点：Hôtel de la Marine  评分4
+地点：Église St-Eustache  评分4
+地点：Musée Jacquemart-André  评分4
+地点：La Butte aux Cailles  评分4
+地点：Bois de Vincennes  评分4
+地点：Église St-Germain des Prés  评分4
+地点：Parc Monceau  评分4
+地点：Musée de l’Orangerie  评分4
+地点：Ground Control  评分4
+地点：Institut du Monde Arabe  评分4
+地点：Parc Rives de Seine  评分4
+地点：Cité des Sciences et de l'Industrie  评分4
+地点：Place des Vosges  评分4
+page:2
+地点：La REcyclerie  评分4
+地点：Cinémathèque Française  评分4
+地点：Parc Rives de Seine  评分4
+地点：Tour Montparnasse  评分4
+地点：Palais Garnier  评分4
+地点：Musée Yves Saint Laurent Paris  评分4
+地点：Musée Marmottan Monet  评分4
+地点：Musée Guimet des Arts Asiatiques  评分4
+地点：Art 42  评分4
+地点：Atelier des Lumières  评分4
+地点：L'Oasis d'Aboukir  评分4
+地点：Musée National Eugène Delacroix  评分4
+地点：Mémorial de la Shoah  评分4
+地点：Philharmonie de Paris  评分4
+地点：Maison de Victor Hugo  评分4
+地点：Le Mur des je t'aime  评分4
+地点：Ballon de Paris  评分4
+地点：Île aux Cygnes  评分4
+地点：Lafayette Anticipations  评分4
+地点：Cimetière du Montparnasse  评分4
+地点：Église du Dôme  评分4
+地点：Musée du Quai Branly – Jacques Chirac  评分4
+地点：Cité de l’Architecture et du Patrimoine  评分4
+地点：Mosquée de Paris  评分4
+地点：Musée de l’Armée  评分4
+地点：Muséum National d’Histoire Naturelle  评分3
+地点：Basilique de St-Denis  评分3
+地点：Conciergerie  评分3
+地点：Parc du Champ de Mars  评分3
+地点：Musée des Arts Décoratifs  评分3
+地点：Pavillon de l'Arsenal  评分3
+地点：Château de Vincennes  评分3
+地点：Pont Neuf  评分3
+地点：Hôtel de Sully  评分3
+地点：Chapelle Notre-Dame de la Médaille Miraculeuse  评分3
+地点：Jardin des Plantes  评分3
+地点：Église St-Étienne du Mont  评分3
+地点：Collection Pinault – Paris  评分3
+地点：Brasserie BapBap  评分3
+地点：Nouveau Musée du Parfum  评分3
+page:3
+地点：Parc de la Villette  评分3
+地点：Place de la Concorde  评分3
+地点：La Cité Fleurie  评分3
+地点：Bibliothèque Nationale de France  评分3
+地点：Les Docks  评分3
+地点：Musée des Archives Nationales  评分3
+地点：Église de la Madeleine  评分3
+地点：Musée Nissim de Camondo  评分3
+地点：Parc des Buttes Chaumont  评分3
+地点：Bois de Boulogne  评分3
+地点：Musée d’Art et d’Histoire  评分3
+地点：Palais de Chaillot  评分3
+地点：Église St-Germain l’Auxerrois  评分3
+地点：Parc Floral de Paris  评分3
+地点：Grande Galerie de l’Évolution  评分3
+地点：Musée d’Art et d’Histoire du Judaïsme  评分3
+地点：Opéra Bastille  评分3
+地点：Palais de Tokyo  评分3
+地点：Parc Zoologique de Paris  评分3
+地点：Musée en Herbe  评分3
+地点：Parc Montsouris  评分3
+地点：Place Vendôme  评分3
+地点：Place du Tertre  评分3
+地点：Petite Ceinture du 15e  评分3
+地点：Marché International de Rungis  评分3
+地点：Musée Cognacq-Jay  评分3
+地点：Parc de Bercy  评分3
+地点：Brasserie la Goutte d'Or  评分3
+地点：Musée de la Musique  评分3
+地点：Avenue des Champs-Élysées  评分3
+地点：Musée de la Vie Romantique  评分3
+地点：Musée de l’Histoire de l’Immigration  评分3
+地点：Parc André Citroën  评分3
+地点：Petit Palais  评分3
+地点：Institut Giacometti  评分3
+地点：Parc Georges Brassens  评分3
+地点：Musée Maillol  评分3
+地点：Musée Édith Piaf  评分3
+地点：Square René Viviani  评分3
+地点：Le Bateau Ivre  评分3
+page:4
+地点：Jardin d’Acclimatation  评分3
+地点：Musée Cernuschi  评分3
+地点：Cité Florale  评分3
+地点：Fondation Louis Vuitton  评分3
+地点：Fondation Henri Cartier-Bresson  评分3
+地点：Musée National Gustave Moreau  评分3
+地点：Crypte Archéologique  评分3
+地点：Square Maurice Gardette  评分3
+地点：Jardin Nelson Mandela  评分3
+地点：Square du Vert-Galant  评分3
+地点：Petite Ceinture du 12e  评分3
+地点：Musée Atelier Zadkine  评分3
+地点：Le Passe-Muraille  评分3
+地点：Cimetière de Montmartre  评分3
+地点：Tour St-Jacques  评分3
+地点：Musée des Égouts de Paris  评分3
+地点：Rue Crémieux  评分3
+地点：Maison Européenne de la Photographie  评分3
+地点：Parc de Belleville  评分3
+地点：Pont Alexandre III  评分3
+地点：Puits Artésien de la Butte aux Cailles  评分3
+地点：Le 104  评分3
+地点：Parc de Bagatelle  评分3
+地点：Église St-Vincent de Paul  评分3
+地点：Tour Jean sans Peur  评分3
+地点：Musée Bourdelle  评分3
+地点：Bouquet of Tulips  评分3
+地点：Palais de la Découverte  评分3
+地点：Parc Astérix  评分3
+地点：Théâtre-Musée des Capucines  评分3
+地点：Musée d’Art Moderne de la Ville de Paris  评分3
+地点：Jardin de la Nouvelle France  评分3
+地点：Mémorial des Martyrs de la Déportation  评分3
+地点：Citéco  评分3
+地点：FluctuArt  评分3
+地点：Galerie de Minéralogie et de Géologie  评分3
+地点：Dalí Paris  评分3
+地点：Musée de la Libération de Paris – Musée du Général Leclerc – Musée Jean Moulin  评分3
+地点：L'Aerosol  评分3
+地点：La Ménagerie  评分3
+page:5
+地点：Musée de l’Homme  评分3
+地点：Jeu de Paume  评分3
+地点：Galerie des Enfants  评分3
+地点：Basilique Ste-Clotilde  评分3
+地点：Musée de la Chasse et de la Nature  评分3
+地点：Galerie des Gobelins  评分3
+地点：Église St-Ambroise  评分3
+地点：Fondation Cartier pour l’Art Contemporain  评分3
+地点：Halle St-Pierre  评分3
+地点：Hôtel de Ville  评分3
+地点：Palais Galliera  评分3
+地点：Ben art work  评分3
+地点：Les Grandes Serres et Galerie de Botanique  评分3
+地点：Le MUR  评分3
+地点：Galerie Itinerrance  评分3
+地点：Arènes de Lutèce  评分3
+地点：Statue of Général Charles de Gaulle  评分3
+地点：Maison de Balzac  评分3
+地点：Musée du Parfum Scribe  评分3
+地点：Atelier Brancusi  评分3
+地点：Abbesses Metro Entrance  评分3
+地点：Grande Pyramide  评分3
+地点：Place du Marché Ste-Catherine  评分3
+地点：Galerie de Paléontologie et d’Anatomie Comparée  评分3
+地点：Église St-Séverin  评分3
+地点：Lac Daumesnil  评分3
+地点：Grand Bassin  评分3
+地点：Immeuble Lavirotte  评分3
+地点：Musée du Luxembourg  评分3
+地点：Place de la Bastille  评分2
+地点：Sorbonne  评分2
+地点：Église St-Pierre de Montmartre  评分2
+地点：Forum des Halles  评分2
+地点：Abbaye Royale du Val-de-Grâce  评分2
+地点：Institut de France  评分2
+地点：59 Rivoli  评分2
+地点：Institut des Cultures d'Islam-Léon  评分2
+地点：Le Bateau Lavoir  评分2
+地点：Arc de Triomphe du Carrousel  评分2
+地点：Grande Arche de la Défense  评分2
+page:6
+地点：Playground Duperré  评分2
+地点：Aquarium Tropical  评分2
+地点：Musée du Vin  评分2
+地点：Cathédrale de la Sainte-Trinité de Paris  评分2
+地点：Fondation Dubuffet  评分2
+地点：Colonne de Juillet  评分2
+地点：Moulin Blute Fin  评分2
+地点：Point Zéro des Routes de France  评分2
+地点：Rue Dénoyez  评分2
+地点：Fontaine des Médicis  评分2
+地点：Moulin Radet  评分2
+地点：Clos Montmartre  评分2
+地点：Institut des Cultures d'Islam-Goutte d'Or  评分2
+地点：Ernest Hemingway's Apartment  评分2
+地点：Chapelle Expiatoire  评分2
+地点：Immeuble des Bons Enfants  评分2
+地点：Stade Roland Garros-Musée de la Fédération Française de Tennis  评分2
+地点：Aquarium de Paris Cinéaqua  评分2
+地点：Art Nouveau Synagogue  评分2
+地点：Musée de la Marine  评分2
+地点：Musée Grévin  评分2
+地点：George Orwell's Boarding House  评分2
+地点：Galerie-Musée Baccarat  评分2
+地点：Hôtel d'Heidelbach  评分2
+地点：Jardin des Serres d’Auteuil  评分2
+地点：Chapelle de la Sorbonne  评分2
+地点：Palais du Luxembourg  评分2
+地点：Musée de la Magie  评分2
+地点：Église St-Louis en l'Île  评分2
+地点：Flame of Liberty Memorial  评分2
+地点：Collège des Bernardins  评分2
+地点：Le Mur du Marais  评分2
+地点：Jardin de l’Atlantique  评分2
+地点：Fontaine des Innocents  评分2
+地点：Palais de l’Élysée  评分2
+地点：Colonne Vendôme  评分2
+地点：Conseil d’État  评分2
+地点：Building Where Jim Morrison Died  评分2
+地点：James Joyce's Flat  评分2
+地点：Porte St-Denis  评分2
+page:7
+地点：Orangery  评分2
+地点：Pré Catelan  评分2
+地点：Marché de St-Honoré  评分2
+地点：5bis Rue Verneuil (Serge Gainsbourg's Former Home)  评分2
+地点：Académie Française  评分2
+地点：Musée de la Sculpture en Plein Air  评分2
+地点：Statue of Liberty Replica  评分2
+地点：Bibliothèque Mazarine  评分2
+地点：Porte St-Martin  评分2
+地点：Pont St-Louis  评分2
+地点：Le Bal  评分2
+地点：Ministère des Affaires Étrangères  评分2
+地点：Pavillon Davioud  评分2
+地点：Wall for Peace Memorial  评分2
+地点：Espace Beaurepaire  评分2
+地点：Rucher du Luxembourg  评分2
+地点：Paul Verlaine's Garret  评分2
+地点：Orchards  评分2
+地点：Église St-Laurent  评分2
+地点：Hôtel Matignon  评分2
+地点：Georges Danton Statue  评分2
+地点：Louvre Porte des Lions Entrance  评分2
+地点：Galerie des Galeries  评分2
+地点：Château de Bagatelle  评分2
+地点：Église Notre Dame de Lorette  评分2

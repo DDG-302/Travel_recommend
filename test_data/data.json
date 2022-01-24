@@ -1,0 +1,910 @@
+{
+    "record_count": 20,
+    "records": {
+        "pois": [
+            {
+                "score": 5,
+                "name": "Eiffel Tower",
+                "review_length": 4354,
+                "place": "Eiffel Tower & Western Paris",
+                "ancestor_slugs": [
+                    "france/paris/eiffel-tower-16e-and-la-defense",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2505.354,
+                "place_atlas_id": "1322674",
+                "external_id": "4443216",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372147",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_1321418885.jpg",
+                "coordinates": {
+                    "lon": 2.2945044899237,
+                    "lat": 48.858241161845
+                },
+                "updated_at": "2021-10-16T10:36:37+00:00",
+                "atlas_id": "372147",
+                "review": "There are different ways to experience the Eiffel Tower, from a daytime trip or\u00a0an evening ascent amid twinkling lights, to a meal in one of its restaurants. And even though some seven million people come annually, few would dispute that each visit is unique \u2013 and something that simply has to be done when in Paris.\n\nHistory\n\nNamed after its designer, Gustave Eiffel, the Tour Eiffel was built for the 1889 Exposition Universelle (World's Fair). It took 300 workers, 2.5 million rivets and two years of nonstop labor to assemble. Upon completion, the tower became the tallest human-made structure in the world (324m) \u2013 a record held until the 1930 completion of New York's Chrysler Building. A symbol of the modern age, it faced opposition from Paris\u2019 artistic and literary elite, and the \u2018metal asparagus\u2019, as some snidely called it, was originally slated to be torn down in 1909. It was spared only because it proved an ideal platform for the transmitting antennas needed for the newfangled science of radiotelegraphy.\n\nSporting six different colors throughout its lifetime, the tower has been painted red and bronze since 1968. Work is underway to strip the previous 19 coats and apply the yellow-brown shade originally conceived by Gustave Eiffel, giving it a new golden hue in time for the 2024 Olympics.\n\nFirst floor: cafe and souvenir shop\n\nOf the tower's three floors, the 1st (57m) has the most space but least impressive views. The glass-enclosed\u00a0Pavillon Ferri\u00e9\u00a0houses an immersion film along with a small cafe and souvenir shop, while the outer walkway features a discovery circuit to help visitors learn more about the tower\u2019s ingenious design. Check out the sections of glass flooring that provide a dizzying view of the ant-like people walking on the ground far below. This level also hosts the restaurant 58 Tour Eiffel. The 1st floor's commercial areas are powered by two sleek wind turbines within the tower.\n\nSecond floor: Le Jules Verne restaurant\n\nViews from the 2nd floor (115m) are the best \u2013 impressively high but still close enough to see the city below. Telescopes and panoramic maps pinpoint locations in Paris and beyond. Story windows give an overview of the lifts\u2019 mechanics, and the vision well allows you to gaze through glass panels to the ground. Also up here are toilets, a souvenir shop, a macaron bar, and Michelin-starred restaurant Le Jules Verne.\n\nTop floor: Champagne bar and 'secret apartment'\n\nViews from the wind-buffeted top floor (276m) stretch up to 60km on a clear day, though at this height the panoramas are more sweeping than detailed. Celebrate your ascent with a glass of bubbly (\u20ac13 to \u20ac22) from the Champagne bar (open 10.15am to 10.15pm). Afterwards peep into Gustave Eiffel\u2019s restored top-level office, otherwise known as the 'secret apartment', where lifelike wax models of Eiffel and his daughter Claire greet Thomas Edison.\n\nTours, tickets and other practicalities\n\nVisitors must pass through security at the bullet-proof glass barriers surrounding the tower's base. The two entrances to the glass enclosure are on avenue\u00a0Gustave Eiffel; the two exits are on quai Branly.\n\nAscend as far as the 2nd floor (either on foot or by lift), from where there's a separate lift to the top floor (closed during heavy winds). Pushchairs must be folded in lifts and bags or backpacks larger than aeroplane-cabin size aren't allowed. Note that the top floor and stairs aren't accessible to people with limited mobility.\n\nPre-purchasing tickets online gives you an allocated time slot and means you only have to queue for security. Print your ticket or show it on your phone. If you can\u2019t reserve your tickets ahead of time, expect lengthy waits for tickets in high season.\n\nStair tickets can't be reserved online. Buy them at the south pillar, where the staircase can also be accessed: the climb consists of 360 steps to the 1st floor and another 360 steps to the 2nd floor.\n\nIf you have reservations for either restaurant, you're granted direct post-security access to the lifts.\n\nFor the best view of the light show, head across the Seine to the Jardins du Trocad\u00e9ro.\n\nHow to get there\n\nThe nearest Metro stop is\u00a0Bir Hakeim, while the nearest train station is\u00a0Champ de Mars\u2013Tour Eiffel (RER C).",
+                "subtypes": [
+                    "Tower"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "609e4a2c7a9df8d99504bfcd",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Centre Pompidou",
+                "review_length": 3780,
+                "place": "Louvre & Les Halles",
+                "ancestor_slugs": [
+                    "france/paris/louvre-and-les-halles",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2504.78,
+                "place_atlas_id": "1322719",
+                "external_id": "4535346",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372153",
+                "attributes": [
+                    "topchoice",
+                    "wifi"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_518167564.jpg",
+                "coordinates": {
+                    "lon": 2.352222,
+                    "lat": 48.860713
+                },
+                "updated_at": "2021-10-16T09:39:18+00:00",
+                "atlas_id": "372153",
+                "review": "Home to Europe's largest collection of modern and contemporary art, Centre Pompidou\u00a0has amazed and delighted visitors ever since it opened in 1977, not just for its outstanding art collection but also for its radical architectural statement.\u00a0Don't miss the spectacular Parisian panorama from the rooftop.\n\nWhat you can see\n\nThe\u00a0Mus\u00e9e National d\u2019Art Moderne, France\u2019s national collection of art dating from 1905 onwards, is the main draw; a fraction of its 100,000-plus pieces \u2013 including Fauvist, cubist, surrealist, pop art and contemporary works \u2013 is on display. It's located on the 4th and 5th floors.\n\nThe permanent collection changes every two years, but the basic layout generally stays the same. The 5th floor showcases artists active between 1905 and 1970 (give or take a decade). You'll find works by Picasso, Matisse, Chagall, Kandinsky, Arbus, Warhol, Pollock and Rothko here.\n\nThe 4th floor focuses on more contemporary creations, roughly from the 1990s onward, with\u00a0monumental paintings, installation pieces, sculpture and video taking centre stage. The focus here is on contemporary art, architecture and design.\n\nEntered from rue du Renard, the huge Biblioth\u00e8que Publique d\u2019Information (public library) takes up part of the 1st and the entire 2nd and 3rd floors. The 6th floor has two galleries for temporary exhibitions (generally excellent) and restaurant Georges, with sweeping views of Paris.\n\nThere are cinemas and more exhibition space on the ground floor and in the basement. West of the centre, place Georges Pompidou and the nearby pedestrian streets attract buskers, musicians, jugglers and mime artists. South of the centre, on place Igor Stravinsky, are fanciful mechanical fountains of skeletons, hearts treble clefs and a big pair of ruby-red lips, created by Jean Tinguely and Niki de Saint Phalle.\n\nCentre Pompidou for children\n\nOn the 1st floor, the Galerie des Enfants, open from 11am to 7pm Wednesday to Monday, is an exhibition area aimed at children aged two to 10, which encourages interactive experimentation; various workshops take place on Wednesday, Saturday and Sunday.\n\nFor teenagers aged 13 to 16, Studio 13/16, open 2pm to 6pm Wednesday, Saturday and Sunday on the lower ground floor, has visual, multimedia and performing art kits and opportunities to meet artists.\n\nThe building\n\nFormer French President Georges Pompidou wanted an ultra-contemporary artistic hub, and he got it: competition-winning architects Renzo Piano and Richard Rogers effectively designed the building inside out, with utilitarian features, such as plumbing, pipes, air vents and electrical cables, forming part of the external fa\u00e7ade, freeing up the interior space for exhibitions and events. The building was renovated in 2020.\n\nTickets and other practicalities\n\nCentre Pompidou opens late every night (except Tuesday, when it\u2019s closed), so head here around 5pm to avoid the daytime crowds.\u00a0Admission to the museum is free on the first Sunday of each month.\u00a0Rooftop entry is included in museum and exhibition admission; alternatively, buy a panorama ticket (\u20ac5) just for the roof.\u00a0You'll still have to queue to get through security, but the entry process will go faster if you buy museum and events tickets online.\n\nAudio-guided tours are downloadable on its website (you'll need your own smartphone and earphones). Guided tours in English take place at 2pm on Saturday and sometimes Sunday (\u20ac4.50; reserve online).\n\nThe museum is wheelchair accessible with a step-free entry at the south side of building at the corner of Rue du Renard and Rue St Merri. There are elevators inside to get between floors.\n\nThe nearest metro station is\u00a0Rambuteau.",
+                "subtypes": [
+                    "Museum"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f7765ee82ecd3250d302d54",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Sainte-Chapelle",
+                "review_length": 3316,
+                "place": "The Islands",
+                "ancestor_slugs": [
+                    "france/paris/the-islands",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2504.316,
+                "place_atlas_id": "1322509",
+                "external_id": "4501761",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/1193683",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_793919728.jpg",
+                "coordinates": {
+                    "lon": 2.345463,
+                    "lat": 48.855207
+                },
+                "updated_at": "2021-10-16T09:37:15+00:00",
+                "atlas_id": "1193683",
+                "review": "Visit Sainte-Chapelle on a sunny day when Paris \u2019 oldest, finest stained glass (1242\u201348) is at its dazzling best. The chapel is famous for its stained-glass windows, holy relics, and concerts.\n\nEnshrined within the city's original, 13th-century Palais de Justice (Law Courts), this gem-like Holy Chapel is Paris\u2019 most exquisite Gothic monument, completed in 1248. It was conceived by Louis IX to house his personal collection of holy relics, including the famous Holy Crown. Some 70% of the stained glass, covering a total area of 640 square meters, is original. To understand the biblical stories illustrated in the 1113 scenes, view or 'read' the windows from left to right, and from bottom to top.\n\nHistory\n\nSainte-Chapelle was built in the courtyard of the royal palace on the \u00cele de la Cit\u00e9\u00a0as a sacred space to house Louis IX's collection of Christian artefacts. The famous Ste-Couronne (Holy Crown) was\u00a0acquired by the French king in 1239 from the emperors of Constantinople for a sum of money easily exceeding the amount it cost to build the chapel. Formerly safeguarded in the treasury at Cath\u00e9drale Notre Dame de Paris, the wreath of thorns was transferred to a safe inside the Louvre for safekeeping following the devastating cathedral fire of April 2019.\u00a0Sainte-Chapelle was built in just six years (compared with nearly 200 years for Notre Dame) and consecrated in 1248.\n\nInsider tips\n\nJoin a free 1\u00bd-hour guided tour in English (daily between 11am and 3pm); rent a 30-minute audioguide (\u20ac3); or download the Sainte Chapelle smartphone app to explore all 1113 windows in luxuriant, intricate detail.\n\nSainte-Chapelle's location within the Palais de Justice (Law Courts) means extra-tight security; be sure to leave pocket knives, scissors et al at your accommodation.\n\nClassical- and sacred-music concerts held here are a soul-stirring experience really not to be missed. Check schedules and buy tickets at Fnac.\n\nTours, tickets and accessibility\n\nFree 45-minute guided tours (only in French) depart from the information desk at the far end of the ground-floor bookshop daily at 11am and 3pm. Audioguides (30 minutes) cost \u20ac3, or download the Sainte-Chapelle Windows smartphone app. Entry is free on the first Sunday of the month from November to March.\n\nSkip long queues at Sainte-Chapelle by purchasing a combination ticket next door at Conciergerie, allowing you to join the shorter 'priority access' queue at the chapel.\n\nThe number of visitors in wheelchairs is capped at two visitors per floor. There's an accessible entrance on Boulevard du Palais. The lower chapel is accessible by an access ramp, while access to the high chapel is by an elevator in the adjacent building. Visitors can avail of an adapted wheelchair. Toilets are wheelchair-friendly. It's advisable to make a reservation for assistance in advance.\n\nWhat's nearby?\n\nCath\u00e9drale Notre Dame de Paris is about a 10-minute walk away. Local dining is typically geared towards tourists and office workers. That said, pretty Place Dauphine is home to several eateries, including bistro Ma Salle \u00e0 Manger. Sleek Sequana cooks up creative modern-French dining courtesy of a French-Senegalese chef duo.\n\nHow to get there\n\nMetro Cit\u00e9 (line 4) stop, practically next door.",
+                "subtypes": [
+                    "Chapel"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f7755a040caaec952dad4c6",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Mus\u00e9e du Louvre",
+                "review_length": 3297,
+                "place": "Louvre & Les Halles",
+                "ancestor_slugs": [
+                    "france/paris/louvre-and-les-halles",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2504.297,
+                "place_atlas_id": "1322719",
+                "external_id": "4535316",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372123",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-04/shutterstockRF_1035503722.jpg",
+                "coordinates": {
+                    "lon": 2.33761,
+                    "lat": 48.860515
+                },
+                "updated_at": "2021-10-16T09:39:18+00:00",
+                "atlas_id": "372123",
+                "review": "It isn\u2019t until you\u2019re standing in the vast courtyard of the Louvre, with its glass pyramid and ornate fa\u00e7ade, that you can truly say you\u2019ve been to Paris.\n\nWhy you should go\n\nHolding tens of thousands of works of art\u2013from Mesopotamian, Egyptian and Greek antiquities to masterpieces by artists such as da Vinci (including his incomparable Mona Lisa), Michelangelo and Rembrandt\u2013it\u2019s no surprise that this is one of the world\u2019s most visited museums.\n\nThe Louvre contains works of art and artisanship from all over Europe as well as priceless collections of antiquities. The Louvre\u2019s raison d\u2019\u00eatre is essentially to present Western art (primarily French and Italian, but also Dutch and Spanish) from the Middle Ages to about 1848 \u2013 at which point the Mus\u00e9e d\u2019Orsay takes over\u2013as well as works from ancient civilisations that formed the West's cultural foundations.\n\nHistory\n\nLong before its modern incarnation, the vast Palais du Louvre originally served as a fortress constructed by Philippe-Auguste in the 12th century; it was rebuilt in the mid-16th century as a royal residence in the Renaissance style. The Revolutionary Convention turned it into a national museum in 1793.\n\nWhen the museum opened in the late 18th century it contained 2500 paintings and objets d\u2019art; the \u2018Grand Louvre\u2019 project inaugurated by the late president Fran\u00e7ois Mitterrand in 1989 doubled the museum\u2019s exhibition space, and both new and renovated galleries have opened in recent years devoted to objets d\u2019art such as the crown jewels of Louis XV. The Islamic art galleries are in the restored Cour Visconti.\n\nTickets and other practicalities\n\nThe sheer size of the place can be overwhelming. However, there\u2019s an array of self-guided thematic trails (1\u00bd hours; download trail brochures in advance from the website) ranging from a Louvre masterpieces trail to the art of eating, plus several for kids (hunt lions, galloping horses).\n\nEven better are the Louvre\u2019s self-paced multimedia guides (\u20ac5). More formal, English-language guided tours depart from the Hall Napol\u00e9on, which has free English-language maps.\n\nThe main entrance is through the 21m-high Grande Pyramide, a glass pyramid designed by the Chinese-American architect IM Pei (1917\u20132019).\n\nStandard tickets are \u20ac15. The only way to guarantee entry is by booking online (\u20ac2 surcharge) or making a time-slot reservation through the Paris Museum Pass. You can avoid the longest queues (for security) outside the pyramid by entering the Louvre complex via the underground shopping centre Carrousel du Louvre, or the Porte des Lions entrance. If you don't have a pre-bought ticket, you'll need to queue up again to buy your ticket once inside (not recommended at peak times, when capacity can mean anyone without a prior reservation won't get in). Tickets are only valid for the duration of your visit (you can no longer come and go as you please throughout the day).\n\nDuring the COVID-19 pandemic, the Louvre introduced new measures such as timed-tickets and a ban on cash. It has at times closed in response to lockdown measures. Always check the website for the latest information.\n\nHotels near the Louvre\n\nHotel Westminster\n\nApartments du Louvre\n\nLa Clef Louvre",
+                "subtypes": [
+                    "Museum"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f776b2940caaef58bdae01f",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Les Catacombes",
+                "review_length": 2870,
+                "place": "Montparnasse & Southern Paris",
+                "ancestor_slugs": [
+                    "france/paris/montparnasse-and-southern-paris",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2503.87,
+                "place_atlas_id": "1323144",
+                "external_id": "4539141",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372143",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_257280379.jpg",
+                "coordinates": {
+                    "lon": 2.332116,
+                    "lat": 48.833764
+                },
+                "updated_at": "2021-10-16T09:39:29+00:00",
+                "atlas_id": "372143",
+                "review": "It\u2019s gruesome, ghoulish and downright spooky, but it never fails to captivate visitors. In 1785, the subterranean tunnels of an abandoned quarry were upcycled as storage rooms for the exhumed bones of corpses that could no longer fit in the city's overcrowded cemeteries\u2014now it's one of Paris\u2019 most visited sights.\n\nHistory\n\nAs the cemeteries became a public health concern, officials decided to move their contents to a site that was, at that time, outside the capital. The first evacuations happened from 1785 to 1787, from the Saints-Innocents cemetery, a site that had been in use since the Middle Ages and closed in 1780. At first, the human remains were simply piled into the quarry. However, before opening to the public in 1809, there was a decorative restoration of the ossuary. By 1810 the skull- and bone-lined catacombs\u2014resting place of millions of anonymous Parisians\u2014had been officially born.\n\nLes Catacombes refers to the part of underground quarry that became the publicly accessible ossuary. However, the term catacombs is often used colloquially to refer to the more vast underground network of tunnels under Paris. These underground tunnels have remained a storied part of Parisian history: during WWII the Resistance held meetings there. Today, at night, thrill-seeking cataphiles roam the tunnels illegally.\n\nTickets and other practicalities\n\nIn a visit to the official site, visitors will cover\u00a01.5 km (about 1 mile) of the underground tunnels on an hour-long visit. The route through Les Catacombes begins at its spacious 2018-opened entrance av du Colonel Rol-Tanguy. Walk down 131 spiral steps to reach the ossuary itself, with a mind-boggling amount of bones and skulls of millions of Parisians neatly packed along the walls. The exit is up 112 steps via a minimalist all-white 'transition space' with a gift shop at 21bis av Ren\u00e9 Coty, 14e.\n\nThe surface is uneven and can be slippery\u2014sturdy shoes are essential. It's not suitable for young children. People with claustrophobia may experience some anxiety in the confined environment. Also note that it is\u00a0not wheelchair accessible\u2014there's no lift and no ramp, only stairs. The temperature\u00a0remains at a cool 14\u00b0C (57\u00b0F).\n\nA maximum of 200 people are allowed in the tunnels at a time and queues can be huge\u2014when the queue extends beyond a 20-minute wait, you'll be handed a coupon with a return entry time later that day. Last entry is at 7.30pm.\n\nRenting an audioguide\u00a0greatly enhances the experience; 90-minute guided tours in English\u00a0take place at 1pm on Thursday. Online bookings are pricier but include an audioguide and guarantee a timeslot, whereas standing in the queue does not, as online ticket holders have priority.\n\nBag searches are carried out to prevent visitors from taking bones.",
+                "subtypes": [
+                    "Cemetery"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77691382ecd3be4030233f",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Mus\u00e9e Rodin",
+                "review_length": 2667,
+                "place": "St-Germain & Les Invalides",
+                "ancestor_slugs": [
+                    "france/paris/st-germain-and-les-invalides",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2503.667,
+                "place_atlas_id": "1322788",
+                "external_id": "3828111",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372149",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-05/LPI-25973-25.jpg",
+                "coordinates": {
+                    "lon": 2.316098,
+                    "lat": 48.855793
+                },
+                "updated_at": "2021-10-16T08:50:50+00:00",
+                "atlas_id": "372149",
+                "review": "Even if you're not an art lover, it is worth visiting this high-profile art museum to lose yourself in its romantic gardens.\n\nSculptor, painter, sketcher, engraver and collector Auguste Rodin donated his entire collection to the French state in 1908 on the proviso that it dedicate his former workshop and showroom, the beautiful 1730 H\u00f4tel Biron, to displaying his works. This is where he lived and worked while in Paris. Rodin's artwork is not only installed in the mansion itself, but also on its rose-filled garden\u2014one of the most peaceful places in central Paris.\n\nHighlights\n\nThe rose garden is a wonderful spot to contemplate his famous work The Thinker. Other sculptural highlights are: The Gates of Hell, the 180 figures of which comprise an intricate scene from Dante\u2019s Inferno; Rodin\u2019s marble monument to love, The Kiss; and the world's largest collection of works by Rodin\u2019s prot\u00e9g\u00e9 and muse, Camille Claudel.\n\nOn the 1st floor, in room 12, admire paintings by Van Gogh and Monet that belonged to Rodin. The ground-floor 'Rodin at the H\u00f4tel Biron' room incorporates an eclectic collection of sculptures and curiosities acquired by Rodin and placed in the room in which he worked in 1908.\n\n(Le Baiser) caused controversy on completion due to Rodin\u2019s then-radical depiction of women as equal partners in ardour\u00a0 \u00a9alarico/Shutterstock\" data-embed-button=\"images\" data-entity-embed-display=\"media_image\" data-entity-embed-display-settings=\"{\"image_style\":\"\",\"image_link\":\"\"}\" data-entity-type=\"media\" data-entity-uuid=\"34fc53ae-9412-4f7f-b449-edc57fdba19b\" data-langcode=\"en\" title=\"shutterstockRF_422654617.jpg\">\n\nTickets, tips and accessibility\n\nA combined ticket with the Mus\u00e9e d'Orsay costs \u20ac21; tickets are valid for a single visit to each museum within three months. An audioguide costs \u20ac6. End your visit with a relaxed drink alfresco in the museum's garden cafe (closes 5pm). If you just want to see the outdoor sculptures, cheaper garden-only entry is available. Pre-purchase tickets online to avoid queuing.\n\nThe Mus\u00e9e Rodin is free for everyone on the first Sunday of the month, from October to March.\n\nThe exhibition, garden, cafe and auditorium are accessible, and the museum is equipped with ramps. Wheelchairs are available to visitors free of charge.\n\nBlind and visually impaired visitors can avail of a visitor services assistant who will provide them with gloves and a list of work that can be explored by touch. Guide dogs are welcome.\n\nInduction loops are available throughout the museum for visitors with hearing difficulties.\n\nWhat's nearby?\n\nBoth Mus\u00e9e d'Orsay and H\u00f4tel des Invalides are about a 15-minute walk away. Nearby boulangeries (bakeries) include Besnier. For traditional French fare, book a table at Paris' oldest and still excellent restaurant, \u00c0 la Petite Chaise. For something a bit livelier, try Chez L'Ami Jean.\n\nHow to get there\n\nMetro Varenne (line 13), right next door, or Invalides (line 8 or 13), 10 minutes' away on foot.\n\nRER Invalides (line C) then a 10-minute south.",
+                "subtypes": [
+                    "Museum",
+                    "Garden"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f776b2c82ecd36818302216",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Jardin du Luxembourg",
+                "review_length": 2291,
+                "place": "St-Germain & Les Invalides",
+                "ancestor_slugs": [
+                    "france/paris/st-germain-and-les-invalides",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2503.291,
+                "place_atlas_id": "1322788",
+                "external_id": "4535301",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372163",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-04/shutterstockRF_115372462.jpg",
+                "coordinates": {
+                    "lon": 2.337223,
+                    "lat": 48.84766
+                },
+                "updated_at": "2021-10-16T09:39:18+00:00",
+                "atlas_id": "372163",
+                "review": "This famous inner-city oasis of formal terraces, chestnut groves and lush lawns has a special place in Parisians' hearts.\n\nWhy you should go\n\nNapol\u00e9on dedicated the 23 gracefully laid-out hectares of the Luxembourg Gardens to the children of Paris, and many residents spent their childhood prodding 1920s wooden sailboats with long sticks on the octagonal Grand Bassin pond, watching puppets perform puppet shows at the Th\u00e9\u00e2tre du Luxembourg and riding the carrousel (merry-go-round) or ponies. All those activities are still here today, as are modern playgrounds and sporting and games venues.\n\nDozens of apple varieties grow in the orchards in the gardens\u2019 south, while bees have produced honey in the nearby Rucher du Luxembourg since the 19th century; the two-day F\u00eate du Miel (Honey Festival) takes place in late September. Around the back of the Mus\u00e9e du Luxembourg, lemon and orange trees, palms, grenadiers and oleanders shelter from the cold in the palace\u2019s orangery.\n\nHistory\n\nThe gardens are a backdrop to the Palais du Luxembourg, built in the 1620s for Marie de M\u00e9dici, Henri IV\u2019s consort, to assuage her longing for the Pitti Palace in Florence, where she had spent her childhood. Since 1958 the palace has housed the S\u00e9nat, the Upper House of French Parliament, which is occasionally visitable by guided tour. East of the palace is the Italianate, 1630-built Fontaine des M\u00e9dicis, an ornate fish pond.\n\nNearby, the heavily guarded H\u00f4tel du Petit Luxembourg was the modest 16th-century pad where Marie de M\u00e9dici lived while the Palais du Luxembourg was being built. The president of the Senate has called it home since 1825.\n\nOpening hours and other practicalities\n\nIf you\u2019re planning on picnicking, forget bringing a blanket \u2013 the elegantly manicured lawns are off limits apart from a small wedge on the southern boundary. Instead, do as Parisians do, and corral one of the iconic 1923-designed green metal chairs and find your own favourite part of the park.\n\nEntry to the park is free, but there is a price to enter the Mus\u00e9e du Luxembourg, which hosts prestigious temporary art exhibitions.\n\nOpening hours vary greatly throughout the year; seasonal entry times are posted at entrance gates.",
+                "subtypes": [
+                    "Park"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77683a40caae191ddae0f0",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Panth\u00e9on",
+                "review_length": 2017,
+                "place": "Latin Quarter",
+                "ancestor_slugs": [
+                    "france/paris/the-latin-quarter",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2503.017,
+                "place_atlas_id": "1322729",
+                "external_id": "3354186",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/1264241",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2019-06/88ea89abfafda42bb41ea785744af5af-pantheon.jpg",
+                "coordinates": {
+                    "lon": 2.34453,
+                    "lat": 48.84653
+                },
+                "updated_at": "2021-10-16T08:18:55+00:00",
+                "atlas_id": "1264241",
+                "review": "Elegant and regal in equal measure, the massive neoclassical dome of the Left Bank's iconic Panth\u00e9on is an icon of the Parisian skyline. Louis XV originally commissioned the vast architectural masterpiece around 1750 as an abbey dedicated to Ste Genevi\u00e8ve in thanksgiving for his recovery from an illness. Due to financial and structural problems, it wasn\u2019t completed until 1789.\n\nIn 1791, the abbey was converted into a mausoleum for some of France\u2019s most illustrious citizens, modeled after\u00a0the Pantheon in Rome.\n\nA copy of Foucault's pendulum, first hung from the dome in 1851 to demonstrate the rotation of the earth, takes pride of place.\n\nUntil the Eiffel Tower was completed in 1889, the Panth\u00e9on was the highest building in Paris.\n\nWho is buried in the Panth\u00e9on?\n\nIt has served since 1791 as the resting place of some of France\u2019s greatest thinkers, including Voltaire, Jean-Jacques Rousseau, Louis Braille and Victor Hugo.\n\nThe first woman to be interred in the Panth\u00e9on based on achievement was two-time Nobel Prize\u2013winner Marie Curie (1867\u20131934), reburied here, along with her husband, Pierre, in 1995. Also interred here are Resistance fighters Pierre Brossolette and Jean Zay, as well as the symbolic interments of Resistance fighters Germaine Tillion and Genevi\u00e8ve de Gaulle-Anthonioz, with soil from their graves.\u00a0 In July 2018, Auschwitz survivor, feminist icon and human rights activist Simone Veil became the fifth woman to be interred in the Panth\u00e9on.\n\nA permanent exhibition provides context on the lives and works of those interred there.\n\nTickets and other practicalities\n\nIt is \u20ac11.50 for an independent tour, or \u20ac9 for a group tour. Its colonnaded dome, accessible via 206 steps, is open to visitors (an additional \u20ac3) between April and October\u2013predictably, the city panorama is swooningly good.\n\nTake a 1\u00bd-hour DIY guided tour of the mausoleum with the excellent audioguide (\u20ac3), available at the entrance.",
+                "subtypes": [
+                    "Mausoleum"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f776fc182ecd3bb5d30224c",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Mus\u00e9e d\u2019Orsay",
+                "review_length": 1547,
+                "place": "St-Germain & Les Invalides",
+                "ancestor_slugs": [
+                    "france/paris/st-germain-and-les-invalides",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2502.547,
+                "place_atlas_id": "1322788",
+                "external_id": "4535271",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372151",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2019-06/05d63f490c3eafac7560dfa700065a13-musee-d-orsay.jpg",
+                "coordinates": {
+                    "lon": 2.3255799641497,
+                    "lat": 48.860238443345
+                },
+                "updated_at": "2021-10-16T09:39:17+00:00",
+                "atlas_id": "372151",
+                "review": "Mus\u00e9e d\u2019Orsay may not be quite as famous as the Louvre\u2014 though it\u2019s located a mere 10-minute walk away\u2014but this Left Bank museum holds its own in its collection of artistic wonders. The museum is famous for holding the world\u2019s largest collection of impressionist and postimpressionist art.\n\nWhy you should go\n\nRichly coloured walls at the Mus\u00e9e d\u2019Orsay make its impressionist and postimpressionist canvases by masters including Renoir, Gauguin, C\u00e9zanne and Degas appear as if they\u2019re hung in an intimate home.\n\nCompleted at the turn of the 20th century, the Gare d'Orsay \u2013 the grand former railway station in which the museum is located \u2013 is an exemplar of art nouveau architecture, but the star of the show is France\u2019s treasured national collection of masterpieces from 1848 to 1914. Allow ample time to swoon over masterpieces by Manet, Monet, Renoir, Degas, Pissarro and Van Gogh.\n\nThere are also some magnificent decorative arts, graphic arts and sculptures.\n\nOpening hours and other practicalities\n\nThe museum is open 9.30am to 7pm Tuesday, Wednesday, and Friday to Sunday. It opens from 9.30am to 8.45pm on Thursday. A full rate ticket is \u20ac16. Save time by pre-purchasing tickets online and head to entrance C. Combined tickets with the Mus\u00e9e de l\u2019Orangerie (\u20ac18) and with the Mus\u00e9e Rodin (\u20ac21) are valid for a single visit to the museums within three months. An audioguide costs \u20ac5.\n\nConcerts, films, performances and cafe readings take place regularly; check the website for schedules.",
+                "subtypes": [
+                    "Museum"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f776b2940caae7cf0dad23d",
+                "highlight": {}
+            },
+            {
+                "score": 4,
+                "name": "Jardin des Tuileries",
+                "review_length": 2536,
+                "place": "Louvre & Les Halles",
+                "ancestor_slugs": [
+                    "france/paris/louvre-and-les-halles",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2403.536,
+                "place_atlas_id": "1322719",
+                "external_id": "4535331",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372479",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-05/GettyRF_514881777.jpg",
+                "coordinates": {
+                    "lon": 2.327117,
+                    "lat": 48.863522
+                },
+                "updated_at": "2021-10-16T09:39:18+00:00",
+                "atlas_id": "372479",
+                "review": "Filled with fountains, ponds and sculptures, the formal 28-hectare Tuileries Garden, which begins just west of the Jardin du Carrousel, was laid out in its present form in 1664 by Andr\u00e9 Le N\u00f4tre, architect of the gardens at Versailles. The Tuileries soon became the most fashionable spot in Paris for parading about in one\u2019s finery. It now forms part of the Banks of the Seine Unesco World Heritage site and is one of Paris\u2019 best parks.\n\nThe 16th-century Palais des Tuileries (home to Napol\u00e9on, among others) stood at the garden\u2019s western end until 1871, when it was razed during the upheaval of the Paris Commune. All that remains of the palace today are two buildings, both museums.\n\nThe axe historique (historic axis), the western continuation of the Tuileries\u2019 east\u2013west axis, follows the av des Champs-\u00c9lys\u00e9es to the Arc de Triomphe and, ultimately, to the Grande Arche in the skyscraper district of La D\u00e9fense.\n\nMuseums in the Jardin des Tuileries\n\nAt the far western end of the gardens are two museums, the Mus\u00e9e de l'Orangerie and the Jeu de Paume.\n\nThe Mus\u00e9e de l'Orangerie, set in a 19th-century edifice built to shelter the garden\u2019s orange trees in winter, is a treat. The two oval rooms of the purpose-built top floor are the show-stealer; here you'll find eight of Monet's enormous, ethereal Water Lilies canvases bathed in natural light.\n\nDownstairs is the private collection of art dealer Paul Guillaume (1891\u20131934), with works by all the big names of early modern art: C\u00e9zanne, Matisse, Picasso, Renoir, Modigliani, Soutine and Utrillo. There's always a queue, so arrive early. A combination ticket covering admission to the Mus\u00e9e d\u2019Orsay costs \u20ac18. English-language tours (\u20ac6) of the Mus\u00e9e de l\u2019Orangerie take place at 2.15pm daily.\n\nThe other museum is the wonderfully airy Jeu de Paume, set in the palace\u2019s erstwhile royal tennis court. It stages innovative photography exhibitions.\n\nOpening hours and other practicalities\n\nEntry is free. Opening hours vary: the parks is open\u00a0from 7am to 11pm June through August; 7am to 9pm April, May and September; and 7.30am to 7.30pm October through March.\n\nThe summer funfair F\u00eate des Tuileries runs from June through August, when over 60 attractions, including bumper cars and a hall of mirrors, set up in the gardens.\n\nThe Jardins des Tuileries is a popular spot to go jogging if you're staying on the Right Bank, but it can get crowded during the day so make sure to get out early in the morning.",
+                "subtypes": [
+                    "Park"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "609beb20aabfb44b3d85c883",
+                "highlight": {}
+            },
+            {
+                "score": 4,
+                "name": "Station F",
+                "review_length": 1800,
+                "place": "Montparnasse & Southern Paris",
+                "ancestor_slugs": [
+                    "france/paris/montparnasse-and-southern-paris",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2402.8,
+                "place_atlas_id": "1323144",
+                "external_id": "3801906",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/1592362",
+                "attributes": [
+                    "topchoice",
+                    "wifi"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2021-05/Station%20F.jpg",
+                "coordinates": {
+                    "lon": 2.370665,
+                    "lat": 48.835289
+                },
+                "updated_at": "2021-10-16T08:48:59+00:00",
+                "atlas_id": "1592362",
+                "review": "The world's largest start-up campus was unveiled by French president, Emmanuel Macron, in mid-2017. At any one time, some 3000 resident entrepreneurs from all over the world work away on groundbreaking new ideas and businesses, supported by 30 high-tech incubators and accelerators in this unique start-up ecosystem. Station F is in the 13th arrondissement, which is also home to the new business district of Paris Rive Gauche.\n\nTours and public spaces\n\nGuided tours take visitors on a 45-minute waltz through the gargantuan steel, glass and concrete hangar \u2013 a railway depot constructed in 1927\u201329 to house new trains servicing nearby Gare d'Austerlitz. Guided tours can only be booked online; reserve well ahead.\n\nTwo public passageways divide the 'Create' zone (where all the serious action happens) from the 'Share' zone \u2013 embracing the vast lobby with monumental Jeff Koons Playdough sculpture and the Anticaf\u00e9 co-working space where hipsters pay \u20ac5 an hour to drink coffee, snack and plug in \u2013 and the 'Chill' zone.\n\nLa Felicit\u00e0\n\nThe public Chill zone is home to Europe\u2019s largest restaurant. The immense La Felicit\u00e0 (Italian for 'happiness') sprawls over 4500 sq metres, with 1000 seats, five kitchens and three bars across a series of spaces including train carriages that reflect the building's origins as a railway depot. Styled as a 'food market', it specialises in pizzas and pastas made from Italian produce.\n\nEverything, from bread to gelato and even the coffee and beer, is house-made. It doesn't take reservations; skip the queues at individual counters by ordering directly from the app. Kids are welcomed at all times and often have special activities available for them. Look out for events such as pop-ups, concerts and DJ sets.",
+                "subtypes": [
+                    "Research Centre"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "60a38dcf3d6b62d0e4173cd9",
+                "highlight": {}
+            },
+            {
+                "score": 4,
+                "name": "Arc de Triomphe",
+                "review_length": 1740,
+                "place": "Champs-\u00c9lys\u00e9es & Grands Boulevards",
+                "ancestor_slugs": [
+                    "france/paris/champs-elysees-and-grands-boulevards",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 2402.74,
+                "place_atlas_id": "1322783",
+                "external_id": "4485471",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372159",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2019-06/GettyImages-544837009_full.jpg",
+                "coordinates": {
+                    "lon": 2.295048,
+                    "lat": 48.873769
+                },
+                "updated_at": "2021-10-16T09:36:17+00:00",
+                "atlas_id": "372159",
+                "review": "If anything rivals the Eiffel Tower as the symbol of Paris, it\u2019s this magnificent 1836 monument to Napol\u00e9on\u2019s victory at Austerlitz (1805), which he commissioned the following year.\n\nThis intricately sculpted triumphal arch stands sentinel in the center of\u00a0 the \u00c9toile roundabout - arguably one of Europe\u2019s most chaotic traffic spots.\n\nThe swirling cars can be seen from the viewing platform on top of the arch (164ft/50m up via 284 steps and well worth the climb). You can see the dozen avenues that street out from this spot, including the famed Champs-\u00c9lys\u00e9es.\n\nAv de la Grande Arm\u00e9e heads northwest to the skyscraper district of La D\u00e9fense, where the Grande Arche marks the western end of the axe historique.\n\nThe most famous of the four high-relief panels at the base is to the right, facing the arch from the av des Champs-\u00c9lys\u00e9es side. It\u2019s entitled D\u00e9part des Volontaires de 1792 (Departure of the Volunteers of 1792) and is also known as La Marseillaise (France\u2019s national anthem). Higher up, a frieze running around the whole monument depicts hundreds of figures, each one 6.6ft (2m) high.\n\nBeneath the arch at ground level lies the Tomb of the Unknown Soldier. The Unknown Soldier was laid to rest in 1921, in honor of the 1.3 million French soldiers who lost their lives in WWI. An eternal flame is rekindled daily at 6:30pm.\n\nTickets and other practicalities\n\nTo access the arch, don\u2019t cross the traffic-choked roundabout above ground. Stairs lead from the northern side of the Champs-\u00c9lys\u00e9es to pedestrian tunnels (not linked to the metro) that bring you out safely beneath the arch. Tickets (\u20ac13 for a general adult ticket) to the viewing platform are sold in the tunnel.",
+                "subtypes": [
+                    "Landmark"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f7764c540caae1125dad81d",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Cimeti\u00e8re du P\u00e8re Lachaise",
+                "review_length": 1863,
+                "place": "Le Marais, M\u00e9nilmontant & Belleville",
+                "ancestor_slugs": [
+                    "france/paris/marais-and-menilmontant",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1502.863,
+                "place_atlas_id": "1322812",
+                "external_id": "4535376",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372157",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2019-06/fb5bfb81ac9e9a2017ba835e92c458a9-cimetiere-du-pere-lachaise.jpg",
+                "coordinates": {
+                    "lon": 2.389044,
+                    "lat": 48.859943
+                },
+                "updated_at": "2021-10-16T09:39:18+00:00",
+                "atlas_id": "372157",
+                "review": "Opened in 1804, P\u00e8re Lachaise is the world's most visited cemetery. Its 70,000 ornate tombs of the rich and famous form a verdant, 44-hectare sculpture garden. Highlights include those of 1960s rock star Jim Morrison (division 6) and Oscarbato Wilde (division 89). Pick up a cemetery map (or download digitally using a QR code) at the conservation office near the bd de M\u00e9nilmontant and rue du Repos entrances.",
+                "subtypes": [
+                    "Cemetery"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77662140caae191ddade0e",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Basilique du Sacr\u00e9-C\u0153ur",
+                "review_length": 1204,
+                "place": "Montmartre & Northern Paris",
+                "ancestor_slugs": [
+                    "france/paris/montmartre-and-northern-paris",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1502.204,
+                "place_atlas_id": "1323143",
+                "external_id": "4535391",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372145",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2019-06/7ad4233f75ec81e3a9a38897ee57353d-basilique-du-sacre-coeur.jpg",
+                "coordinates": {
+                    "lon": 2.343135,
+                    "lat": 48.886286
+                },
+                "updated_at": "2021-10-16T09:39:18+00:00",
+                "atlas_id": "372145",
+                "review": "Begun in 1875 in the wake of the Franco-Prussian War and the chaos of the Paris Commune, Sacr\u00e9-C\u0153ur is a symbol of the former struggle between the conservative Catholic old guard and the secular, republican radicals. It was finally consecrated in 1919, standing in contrast to the bohemian lifestyle that surrounded it. The view over Paris from its parvis is breathtaking. Avoid walking up the steep hill by using a regular metro ticket aboard the funicular to the upper station.",
+                "subtypes": [
+                    "Basilica"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77651740caaead6edad152",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Cath\u00e9drale Notre Dame de Paris",
+                "review_length": 332,
+                "place": "The Islands",
+                "ancestor_slugs": [
+                    "france/paris/the-islands",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1501.332,
+                "place_atlas_id": "1322509",
+                "external_id": "4502031",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372127",
+                "attributes": [
+                    "topchoice"
+                ],
+                "image": "https://lp-cms-production.imgix.net/2019-06/7ac15ee1af8db7cba9af61e1491f8daf-cathedrale-notre-dame-de-paris.jpg",
+                "coordinates": {
+                    "lon": 2.349186,
+                    "lat": 48.853146
+                },
+                "updated_at": "2021-10-16T09:37:16+00:00",
+                "atlas_id": "372127",
+                "review": "While its interior is closed off to visitors following the devastating fire of April 2019, this masterpiece of French Gothic architecture remains the city\u2019s geographic and spiritual heart. Its grand exterior, with its two enduring towers and flying buttresses, is rightly still an alluring attraction to countless visitors.",
+                "subtypes": [
+                    "Cathedral"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f7765d782ecd3f1ba302a47",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "H\u00f4tel des Invalides",
+                "review_length": 1098,
+                "place": "St-Germain & Les Invalides",
+                "ancestor_slugs": [
+                    "france/paris/st-germain-and-les-invalides",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1501.098,
+                "place_atlas_id": "1322788",
+                "external_id": "4535256",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372155",
+                "attributes": [
+                    "topchoice"
+                ],
+                "coordinates": {
+                    "lon": 2.312804,
+                    "lat": 48.857056
+                },
+                "updated_at": "2021-10-16T09:39:17+00:00",
+                "atlas_id": "372155",
+                "review": "Flanked by the 500m-long Esplanade des Invalides lawns, H\u00f4tel des Invalides was built in the 1670s by Louis XIV to house 4000 invalides (disabled war veterans). On 14 July 1789, a mob broke into the building and seized 32,000 rifles before heading on to the prison at Bastille and the start of the French Revolution. Admission includes entry to all H\u00f4tel des Invalides sights (temporary exhibitions cost extra). Hours for individual sites can vary \u2013 check the website for updates.",
+                "subtypes": [
+                    "Monument",
+                    "Museum"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77570382ecd37f43302d5b",
+                "highlight": {}
+            },
+            {
+                "score": 5,
+                "name": "Mus\u00e9e National Picasso",
+                "review_length": 829,
+                "place": "Le Marais, M\u00e9nilmontant & Belleville",
+                "ancestor_slugs": [
+                    "france/paris/marais-and-menilmontant",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1500.829,
+                "place_atlas_id": "1322812",
+                "external_id": "4535361",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372171",
+                "attributes": [
+                    "topchoice"
+                ],
+                "coordinates": {
+                    "lon": 2.362511,
+                    "lat": 48.859576
+                },
+                "updated_at": "2021-10-16T09:39:18+00:00",
+                "atlas_id": "372171",
+                "review": "One of Paris\u2019 most treasured art collections is showcased inside the mid-17th-century H\u00f4tel Sal\u00e9, an exquisite private mansion owned by the city since 1964. The Mus\u00e9e National Picasso is a staggering art museum devoted to Spanish artist Pablo Picasso (1881\u20131973), who spent much of his life living and working in Paris. The collection includes more than 5000 drawings, engravings, paintings, ceramic works and sculptures by the grand ma\u00eetre (great master), although they're not all displayed at the same time.",
+                "subtypes": [
+                    "Museum"
+                ],
+                "top_choice": 1,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77570440caae0332dad8ed",
+                "highlight": {}
+            },
+            {
+                "score": 4,
+                "name": "Promenade Plant\u00e9e",
+                "review_length": 1471,
+                "place": "Bastille & Eastern Paris",
+                "ancestor_slugs": [
+                    "france/paris/bastille-and-gare-de-lyon",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1402.471,
+                "place_atlas_id": "1323365",
+                "external_id": "3772656",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372523",
+                "attributes": null,
+                "image": "https://lp-cms-production.imgix.net/2019-06/9a72b5031f6e18d1d3432ead4e54b5dc-promenade-plantee.jpg",
+                "coordinates": {
+                    "lon": 2.371191,
+                    "lat": 48.849376
+                },
+                "updated_at": "2021-10-16T08:46:58+00:00",
+                "atlas_id": "372523",
+                "review": "The disused 19th-century Vincennes railway viaduct was reborn in 1993 as the world's first elevated park, planted with a fragrant profusion of cherry trees, maples, rose trellises, bamboo corridors and lavender. Three storeys above ground, it provides a unique aerial vantage point on the city. Along the first, northwestern section, above av Daumesnil, art-gallery workshops beneath the arches form the Viaduc des Arts. Staircases provide access (lifts here invariably don't work).",
+                "subtypes": [
+                    "Park"
+                ],
+                "top_choice": 0,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77702d82ecd39c52302dd3",
+                "highlight": {}
+            },
+            {
+                "score": 4,
+                "name": "Jardin du Palais Royal",
+                "review_length": 1287,
+                "place": "Louvre & Les Halles",
+                "ancestor_slugs": [
+                    "france/paris/louvre-and-les-halles",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1402.287,
+                "place_atlas_id": "1322719",
+                "external_id": "3513201",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372471",
+                "attributes": null,
+                "image": "https://lp-cms-production.imgix.net/2019-06/a5036c423589ebda66726f1f664e9bfb-jardin-du-palais-royal.jpg",
+                "coordinates": {
+                    "lon": 2.337803,
+                    "lat": 48.864884
+                },
+                "updated_at": "2021-10-16T08:30:38+00:00",
+                "atlas_id": "372471",
+                "review": "The Jardin du Palais Royal is a perfect spot to sit, contemplate and picnic between boxed hedges, or to shop in the trio of beautiful arcades that frame the garden: the Galerie de Valois (east), Galerie de Montpensier (west) and Galerie Beaujolais (north). However, it's the southern end of the complex, polka-dotted with sculptor Daniel Buren's 260 black-and-white striped columns, that has become the garden's signature feature.",
+                "subtypes": [
+                    "Gardens"
+                ],
+                "top_choice": 0,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f77683a82ecd3be4030222f",
+                "highlight": {}
+            },
+            {
+                "score": 4,
+                "name": "Mus\u00e9e des Arts et M\u00e9tiers",
+                "review_length": 743,
+                "place": "Le Marais, M\u00e9nilmontant & Belleville",
+                "ancestor_slugs": [
+                    "france/paris/marais-and-menilmontant",
+                    "france/paris",
+                    "france",
+                    "western-europe",
+                    "europe",
+                    "world"
+                ],
+                "internal_ranking": 1401.743,
+                "place_atlas_id": "1322812",
+                "external_id": "3346161",
+                "type": "See",
+                "url": "https://www.lonelyplanet.com/pois/372535",
+                "attributes": null,
+                "image": "https://lp-cms-production.imgix.net/2019-06/7a2cdec4d7ad0c39effc925b731edfb1-musee-des-arts-et-metiers.jpg",
+                "coordinates": {
+                    "lon": 2.355602,
+                    "lat": 48.865646
+                },
+                "updated_at": "2021-10-16T08:18:21+00:00",
+                "atlas_id": "372535",
+                "review": "The Arts and Crafts Museum, dating to 1794 and Europe's oldest science and technology museum, is a must for families \u2013 or anyone with an interest in how things tick or work. Housed inside the sublime 18th-century priory of St-Martin des Champs, some 2400 instruments, machines and working models from the 18th to 20th centuries are displayed across three floors. In the priory's attached church is Foucault\u2019s original pendulum, introduced to the world at the Universal Exhibition in Paris in 1855.",
+                "subtypes": [
+                    "Museum"
+                ],
+                "top_choice": 0,
+                "_index": "5ed57541c35bc948a7490c05",
+                "_type": "_doc",
+                "_score": null,
+                "_version": null,
+                "_explanation": null,
+                "sort": null,
+                "id": "5f776b2840caae8b5fdadc40",
+                "highlight": {}
+            }
+        ]
+    },
+    "info": {
+        "pois": {
+            "query": "",
+            "current_page": 1,
+            "num_pages": 14,
+            "per_page": 20,
+            "total_result_count": 265,
+            "facets": {
+                "subtypes": {
+                    "Museum": 66,
+                    "Park": 26,
+                    "Gallery": 25,
+                    "Church": 18,
+                    "Historic Building": 13,
+                    "Monument": 11,
+                    "Landmark": 10,
+                    "Notable Building": 7,
+                    "Architecture": 6,
+                    "Gardens": 6,
+                    "Square": 6,
+                    "Cultural Centre": 5,
+                    "Cemetery": 4,
+                    "Public Art": 4,
+                    "Bridge": 3,
+                    "Sculpture": 3,
+                    "Street": 3,
+                    "Tower": 3,
+                    "Amusement Park": 2,
+                    "Aquarium": 2,
+                    "Area": 2,
+                    "Arts Centre": 2,
+                    "Basilica": 2,
+                    "Brewery": 2,
+                    "Cathedral": 2,
+                    "Chapel": 2,
+                    "Chateau": 2,
+                    "Library": 2,
+                    "Palace": 2,
+                    "Plantation": 2,
+                    "Viewpoint": 2,
+                    "Windmill": 2,
+                    "Zoo": 2,
+                    "Art Studio": 1,
+                    "Canal": 1,
+                    "Fountain": 1,
+                    "Garden": 1,
+                    "Island": 1,
+                    "Lake": 1,
+                    "Market": 1,
+                    "Mausoleum": 1,
+                    "Memorial": 1,
+                    "Mosque": 1,
+                    "Pond": 1,
+                    "Research Centre": 1,
+                    "Ruins": 1,
+                    "Sports Ground": 1,
+                    "Spring": 1,
+                    "Stadium": 1,
+                    "Statue": 1,
+                    "Synagogue": 1,
+                    "University": 1,
+                    "Vineyard": 1
+                }
+            }
+        }
+    },
+    "errors": {}
+}

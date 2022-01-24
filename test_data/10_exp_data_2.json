@@ -1,0 +1,1069 @@
+{
+    "data": {
+        "activities": {
+            "entities": [
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "22 Rue Jean Rey, 75015 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "On your pilgrimage from Paris to Normandy, leave the details to us. In one unforgettable day, we\u2019ll take you to experience history where it happened. What better way to honor the sacrifices that changed the course of WW2?You\u2019ll visit legendary Omaha Beach and remnants of the Arromanches artificial harbor left by allied forces, and get fascinating insights into those fateful days, learning just some of the incredible stories at the Visitor Center. Take the Memorial Drive along Juno and Gold Beaches,names that will echo with meaning for all eternity. Pause to reflect in the solemn setting of the pristine American Cemetery. Your guide will bring memories to life and help you gain a special understanding of what the Allied soldiers faced and why French locals are still so grateful to the Liberation forces. If you want, when booking, upgrade to a small-group tour for a more personal experience.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 13,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2050NP",
+                    "name": "Normandy D-Day Beaches \u0026 American Cemetery Trip from Paris",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/09\/88\/fa\/47.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 302.27999999999997,
+                                "currency": "AUD",
+                                "formattedAmount": "$302.28",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 163.15000000000001,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3163.15",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 188.00999999999999,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac188.01",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 215.66,
+                                "currency": "USD",
+                                "formattedAmount": "$215.66",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "Moulin Rouge, 82 Boulevard de Clichy, 75018 Paris France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Enjoy an evening dinner show at the Moulin Rouge the number one show in Paris. With a choice of three different dinner menus, don\u0027t miss your chance to see the world-renowned showgirls and French Cancan dancers strut their stuff on the Moulin Rouge\u0027s historic stage. Moulin Rouge Paris sells out months in advance, so book ahead to avoid disappointment.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 4,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-5022MOUDIN",
+                    "name": "Paris Moulin Rouge Cabaret Show \u0026 Dinner with Choice Menus including Christmas",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/6e\/b5\/a7.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 305.48000000000002,
+                                "currency": "AUD",
+                                "formattedAmount": "$305.48",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 164.87,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3164.87",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 190,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac190.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 217.94,
+                                "currency": "USD",
+                                "formattedAmount": "$217.94",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": null,
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "2 Rue de la P\u00e9pini\u00e8re, 75008 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Tread in the footsteps of Marie-Antoinette during this full-day bike ride and tour of Versailles. Travel to the magical hamlet outside of Paris and enjoy \u2018skip the line\u2019 access at the 2,000 acre royal domain of French history and culture. Learn about palace life and Marie-Antoinette\u2019s role in the French Revolution as you explore the area and see its famous Hall of Mirrors. Ride through the countryside on a comfortable bike and visit a local market to shop at glorious French food stalls. Round-trip train fares are included.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 8,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-7249P3",
+                    "name": "Versailles Bike Tour with Skip-the-Line Entrance to Palace",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/74\/24\/27.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 159.16999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$159.17",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 85.909999999999997,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a385.91",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 99,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac99.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 113.56,
+                                "currency": "USD",
+                                "formattedAmount": "$113.56",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Palace of Versailles, Place d\u0027Armes, 78000 Versailles, France",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Food \u0026 Drink",
+                    "departureInfo": "1: Anvers, 75018 Paris, France2: Abbesses, 75018 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Enjoy on a three-hour French gastronomy tour in the stunning Montmartre district. Sample food and wine during a professional tour of the city with an experienced guide. Take in the culture and cuisine while exploring eateries and shops through the eyes of a Parisian.\n\nMONTMARTRE FOOD TOUR\n\nBE CAREFUL! Our tour in Montmartre Area leaves from 2 different meeting spots depending on the schedule: read the following info carefully and email us in case you have any doubt!\n\nFrom Monday to Friday all our tours leave from \u0022Anvers Metro station\u0022 on line 2 (except for the evening tour)\n\n*EXCEPTION*\n\nAll the tours at 6 PM leave from \u0022Abbesses Metro station\u0022 on line 12\n\nAll the tours on Saturday and Sunday leave from \u0022Abbesses Metro station\u0022 on line 12\n\nThe guide will have an orange umbrella and there is only one metro exit so it\u0027s easy to spot.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "MINUTES",
+                        "value": 342,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-7812P1",
+                    "name": "Paris Secret Food Tour: Taste of Montmartre with Private Tour Option",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/08\/39\/7b\/46.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 152.86000000000001,
+                                "currency": "AUD",
+                                "formattedAmount": "$152.86",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 82.700000000000003,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a382.7",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 95.230000000000004,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac95.23",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 109.48,
+                                "currency": "USD",
+                                "formattedAmount": "$109.48",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Boulevard de Clichy, Paris, France",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Sandemans New Paris Tour Montmartre, 5 Place Blanche, 75009 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Montmartre is the epitome of all things quintessentially Parisian, from terraced caf\u00e9s to romping bars and clubs, drunken can-can dancers to budding street artists and performers, bourgeois-bohemian apartments to tiny cobblestone streets. Join the local guide for this 2 hour tour to walk through this distinctive district. You\u2019ll discover what made Vincent Van Gogh, Toulouse Lautrec, Claude Monet, Pablo Picasso, and Salvador Dal\u00ed want to call this eclectic home.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 2,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-48577P1",
+                    "name": "Montmartre District Walking Tour in Paris",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/03\/19\/40.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 27.34,
+                                "currency": "AUD",
+                                "formattedAmount": "$27.34",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 14.82,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a314.82",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 17,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac17.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 19.550000000000001,
+                                "currency": "USD",
+                                "formattedAmount": "$19.55",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Sacr\u00e9-C\u0153ur, 35 Rue du Chevalier de la Barre, 75018 Paris, France",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Outdoor Activities",
+                    "departureInfo": "All\u00e9e des Refuzniks, 75007 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Enjoy the Eiffel Tower during a 2-hour adventure and climb the stairs to the 2nd level with an entertaining and knowledgeable guide. \u00a0Brag to your friends and join your fellow group of \u0022warriors\u0022 as you ascend 704 steps on foot with your expert guide who will share stories and fun facts about the Tower and surrounding landmarks! The scenery changes and expands around you on a journey that is as spectacular as the destination! The history, the legends, the views, the accomplishment!! Snacks or drinks are available for purchase.\n\nFor those who bought the Summit Access, you will take an elevator from the 2nd level to the Summit.\u00a0 In the event that the Summit is closed, you will be you will be refunded for the price difference between the two options.\n\nPlease note this is not skip the line and that sometimes wait periods with your guide can be over 1 hour depending on the crowd restrictions, COVID security measures and construction at the Eiffel Tower.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 2,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-47475P1",
+                    "name": "Paris Eiffel Tower Guided Climb Tour by Stairs",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/33\/f8\/57.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 54.579999999999998,
+                                "currency": "AUD",
+                                "formattedAmount": "$54.58",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 29.530000000000001,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a329.53",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 34,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac34.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 39.090000000000003,
+                                "currency": "USD",
+                                "formattedAmount": "$39.09",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "6 Avenue de Wagram, 75008 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Take a 12-hour day trip from Paris to Normandy to visit the D-Day landing beaches, where the end of World War II began at sites such as Omaha Beach. You\u0027ll see German bunkers, the Operation Overlord Museum, and Pointe du Hoc, plus visit the Normandy American Cemetery, where 10,000 white crosses stand in perfect rows next to the waters of the English Channel. This tour is limited to eight people to provide a small-group experience with a guide.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 12,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-7249P9",
+                    "name": "Normandy D-Day Small-Group Day Trip with Omaha Beach, Cemetery \u0026 Cider Tasting",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/08\/b7\/1a\/15.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 337.63999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$337.64",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 182.22999999999999,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3182.23",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 210,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac210.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 240.88,
+                                "currency": "USD",
+                                "formattedAmount": "$240.88",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Port de la Bourdonnais, 75007 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Experience the magical decadence of Paris! In one truly unforgettable night, you\u2019ll enjoy a Dinner Cruise along the\u00a0Seine taking in the spectacular monuments, a\u00a0priority entry trip up the iconic Eiffel Tower to gaze upon the sparkling City of Lights. Complete your\u00a0evening at\u00a0the famous and flamboyant Moulin Rouge - French Cancan and champagne included. Glass of champagne or half bottle upon the option you choose.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 7,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2050TEM",
+                    "name": "Eiffel Tower Access with Seine River Dinner Cruise and Moulin Rouge Show",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/09\/81\/51\/71.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 467.64999999999998,
+                                "currency": "AUD",
+                                "formattedAmount": "$467.65",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 252.40000000000001,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3252.4",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 290.86000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac290.86",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 333.63,
+                                "currency": "USD",
+                                "formattedAmount": "$333.63",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Paris, France",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "Catacombs of Paris, 1 Avenue du Colonel Henri Rol-Tanguy, 75014 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Venture below the avenues and Metro tunnels of Paris and into the Catacombs, whose population of skeletons far outnumbers the living city above. This small-group tour includes Skip-the-Line Entry and lets you access parts of the Catacombs that are off-limits to individual visitors, so you get more out of your experience. Exclusive sights include the Sacellum Crypt, where bones were blessed before beginning their rest in the tunnels.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 2,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3731CATACOMBS",
+                    "name": "Skip-the-Line: Paris Catacombs Tour with VIP Access to Restricted Areas",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/1a\/e3\/d9.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 127.02,
+                                "currency": "AUD",
+                                "formattedAmount": "$127.02",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 68.549999999999997,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a368.55",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 79,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac79.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 90.620000000000005,
+                                "currency": "USD",
+                                "formattedAmount": "$90.62",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "Arc de Triomphe du Carrousel, Place du Carrousel, 75001 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Paris\u2019s Louvre Museum is no less than the world\u2019s biggest museum, visited by 10.5 million in 2018 alone. Learn the secrets of three of its biggest crowd-pleasers, including the mysterious Mona Lisa, on your two-and-a-half-hour guided tour. You\u2019ll waste no time waiting in line and head straight to the Mona Lisa where your knowledgeable guide will regale you with fascinating tales and tidbits about the lady with the unavoidable gaze and the wry smile, before whisking you off to discover two more unmissable masterpieces. Then you\u2019re free to wander around the museum on your own, coming face to face with works by great masters and discovering new personal favorites by lesser-known artists.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 3.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2050_PA",
+                    "name": "Louvre Museum Skip the Line Access Guided Tour",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/41\/3e\/59.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 112.76000000000001,
+                                "currency": "AUD",
+                                "formattedAmount": "$112.76",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 60.859999999999999,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a360.86",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 70.129999999999995,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac70.13",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 80.439999999999998,
+                                "currency": "USD",
+                                "formattedAmount": "$80.44",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Louvre Museum, Rue de Rivoli, 75001 Paris, France",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "19 Avenue de la Bourdonnais, 75007 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Skip the notorious long lines at the Eiffel Tower and discover Paris\u0027 most famous landmark with a local and passionate guide during this\u00a0engaging 90-minute tour. Your ticket includes skip-the-line access to the second\u00a0level\u00a0of the Eiffel Tower as well as\u00a0access to the tower\u0027s summit, where you can enjoy a\u00a0view of Paris\u0027 skyline from 1,063 feet above the city.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-9205P4",
+                    "name": "Eiffel Tower Skip the Line and Small Group Tour with Summit Access by elevator ",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/75\/b0\/4f.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 120.59,
+                                "currency": "AUD",
+                                "formattedAmount": "$120.59",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 65.079999999999998,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a365.08",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 75,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac75.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 86.030000000000001,
+                                "currency": "USD",
+                                "formattedAmount": "$86.03",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Catacombs of Paris, 1 Avenue du Colonel Henri Rol-Tanguy, 75014 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Step out of Paris and into a fairytale, travelling in air-conditioned comfort to the beautiful Loire Valley. Live like French royalty for a day with a local wine tasting, and the freedom to explore three astounding ch\u00e2teaux. Your expert, English-speaking tour leader will entertain you between stops with insights and stories about the countryside and the nobility who once reigned over the region.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 12,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3731LOIRE",
+                    "name": "Loire Valley Chambord \u0026 Chenonceau Castles Day Trip with Wine Tasting from Paris",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/ef\/71\/1f.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 215.61000000000001,
+                                "currency": "AUD",
+                                "formattedAmount": "$215.61",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 116.37,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3116.37",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 134.09999999999999,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac134.1",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 153.81999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$153.82",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "22 Rue Jean Rey, 75015 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Think of France and what comes to mind? Chances are the Palace of Versailles and the Impressionists are up there in your top ten. However fleeting your visit, you\u00a0do\u00a0have time to experience a bit of both, thanks to our day trip from Paris. Ever wanted to step into one of Monet\u2019s paintings? Your wish is our command! Wander through the lush gardens of the artist\u2019s residence, inspiration for his Nympheas, among others. After lunch, head to Versailles, royal pad to three King Louis. From the moment you approach this imposing Palace, we dare you not to gasp at its lavish splendor. In fact, you\u2019ll probably keep your mouth open for the rest of your visit!",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 17.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2050GV_GVE",
+                    "name": "Versailles Palace \u0026 Giverny\u0027s Monet House Guided Visit with Lunch from Paris",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/09\/89\/52\/58.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 324.63,
+                                "currency": "AUD",
+                                "formattedAmount": "$324.63",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 175.63999999999999,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3175.64",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 202.24000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac202.24",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 232.50999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$232.51",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "24 Rue Edgar Faure, 75015 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Paris Night Bike Tour is perfect for both those new to the city and Parisian veterans. For the beginners, this tour will offer you a fantastic orientation and give you an opportunity to see virtually all of the sites you\u0027ve read about. For the veterans, you will learn new facts and stories about Paris that you\u0027ve never heard before. You are sure to agree that riding a bike is the best way to see the \u0022City of Light\u0022.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 4,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3588PARIS03",
+                    "name": "Paris by Night City of Lights Sightseeing Guided Bike Tour",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/71\/13\/b0.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 70.629999999999995,
+                                "currency": "AUD",
+                                "formattedAmount": "$70.63",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 38.210000000000001,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a338.21",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 44,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac44.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 50.579999999999998,
+                                "currency": "USD",
+                                "formattedAmount": "$50.58",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "24 Rue Edgar Faure, 75015 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "See Paris like a Parisian on a tour by bicycle! Whether it\u0027s your first or fifth time in Paris, this bike tour is the perfect way to travel from sight to sight at a leisurely pace. Getting around Paris by bicycle is the ideal orientation if you\u0027re new to Paris, and return visitors will discover new facts and hear new stories about the city they love. Either way, you are sure to agree that riding a bike is the best way to see Paris.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 4,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3588PARIS01",
+                    "name": "Paris Sightseeing Guided Bike Tour Like a Parisian with a Local Guide",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/06\/71\/13\/ac.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 54.579999999999998,
+                                "currency": "AUD",
+                                "formattedAmount": "$54.58",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 29.530000000000001,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a329.53",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 34,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac34.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 39.090000000000003,
+                                "currency": "USD",
+                                "formattedAmount": "$39.09",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "1: 19 Rue de S\u00e8vres, 75006 Paris, France2: 35 Rue Rambuteau, 75004 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Combine your love of chocolate and cakes with your passion for Paris! This delectable tour combines French gourmet specialties with a morning or afternoon walking tour so you won\u0027t need to feel too guilty. \u00a0Delight in this tasty mix of desserts, history, and culture as you discover flavor of an historic Parisian neighborhood of your choosing: either Saint-Germain-des-Pr\u00e9s, or the Marais. Your tour is led by an expert food and culture connoisseur, who will take you to visit a selection of pastry shops, bakeries and chocolate shops while also discovering the rich history dating back to the medieval period.\n\nThe commentary from your expert foodie guide includes history and culture of the city of Paris and of the neighborhood you visit; a description of any seasonal events taking place at the time of your tour; and an introduction to selected specialties in the main shops. Don\u0027t miss out on this tasty and informative experience! ",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 3,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-3234PCT",
+                    "name": "Paris French Sweet Gourmet Specialties Tasting Tour with Pastry \u0026 Chocolate",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/07\/06\/8b\/e4.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 177.81999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$177.82",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 96.209999999999994,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a396.21",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 110.78,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac110.78",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 127.36,
+                                "currency": "USD",
+                                "formattedAmount": "$127.36",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "1: Saint-Germain-des-Pr\u00e9s, 75006 Paris, France2: Le Marais, Paris, France",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Gare Montparnasse, 17 Boulevard de Vaugirard, 75015 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "-We are amongst the few licensed to guide you inside the Ch\u00e2teau not abandon you with an audio. We mic up so you don\u0027t miss a thing!\n-We visit: the Ch\u00e2teau, Royal Gardens, Fountains, Marie Antoinette\u0027s Hamlet\n-We are local to Versailles, it is our home town! \n-See more with ease by bike and access places the crowds do not.\n\n",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 8,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-64296P1",
+                    "name": "Versailles: Food \u0026 Palace Bike Tour",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/09\/b2\/59\/73.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 208.66999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$208.67",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 112.90000000000001,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3112.9",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 130,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac130.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 149.46000000000001,
+                                "currency": "USD",
+                                "formattedAmount": "$149.46",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art \u0026 Culture",
+                    "departureInfo": "41 Avenue de la Bourdonnais, 75007 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "See the highlights of Versailles in one day on this comprehensive trip from Paris. After traveling to the town by luxury minibus, skip past the entrance lines with your priority-access ticket and then head inside the UNESCO World Heritage-listed Palace of Versailles. Tour the State Apartments, seeing the incredible Hall of Mirrors, and then explore Versailles Gardens at leisure. Enjoy a 3-course restaurant lunch by the Grand Canal and visit the estate of Trianon with Petit Trianon and the Queen\u2019s Hamlet.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 8,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-5045VERSAILLES",
+                    "name": "Versailles Best of Domain Skip-the-Line Access Day Tour with Lunch from Paris",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0a\/3c\/c9\/9a.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 388.88,
+                                "currency": "AUD",
+                                "formattedAmount": "$388.88",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 209.88999999999999,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3209.89",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 241.87,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac241.87",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 277.44,
+                                "currency": "USD",
+                                "formattedAmount": "$277.44",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Arc de Triomphe du Carrousel, Place du Carrousel, 75001 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Spend a day exploring Paris in a very unusual way. This excursion on foot and riverboat will show you the highlights of Paris: visit the Louvre Museum and the Eiffel Tower with our professional guide. \n\nDeparture from the Arc de Triomphe du Carroussel, where you will meet your guide. He\/she will take you straight to the famous Louvre Museum right opposite the Meeting Point. Your guide will take you through this must-see museum and tell you about the main artworks: the Venus of Milo and Leonardo da Vinci\u2019s famous Mona Lisa.\n\nAfter your tour of the Louvre Museum which takes about 2.30 hours, your guide will take you to the riverbank to board a Batobus boat. This short cruise will show you Paris from a different angle. \n\nYou will have time then for lunch on your own before going up to the Eiffel Tower.\n\nYour guide will let you disembark to go to the iconic monument of Paris. He\/she will lead you up to the second floor where the secrets of the Eiffel Tower will be revealed. ",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 8,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2050PAJ",
+                    "name": "Paris in One Day with Louvre and Eiffel Tower Guided Tour plus Seine Cruise",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/0b\/d1\/9f\/57.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 263.25999999999999,
+                                "currency": "AUD",
+                                "formattedAmount": "$263.26",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 142.09,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3142.09",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 163.74000000000001,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac163.74",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 187.81999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$187.82",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Eiffel Tower, Paris, France",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing \u0026 Cruises",
+                    "departureInfo": "Place de Fontenoy, 75007 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "A 5 km Segway route with 12 points of interest (POI) in 1 hour and 15 minutes. This allows you to have a very good first glimpse of Paris if your time in the capital is limited.\nHighlights: Eiffel Tower, Champ de Mars, Lavirotte building (Art Nouveau), Russian Orthodox Church, Pont de l\u0027Alma (Zouave), Flame of Liberty, Quai de Seine, Pont Alexandre III, Petit and Grand Palais, Invalides and Military school\nDisclaimer: the aim of this tour is to show you 12 of the most beautiful sites in Paris in a minimum of time (1 hour and 15 minutes!). During this 5km Segway tour, we will take souvenir photos and a quick presentation of the different monuments will be given to you. But if you wish to have a more detailed presentation of the monuments as well as the historical facts surrounding their construction during your Segway ride, we recommend that you book our 2,5 hour guided tour \u0022the Amazing Paris Segway tour\u0022.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.75,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-133051P9",
+                    "name": "Paris Segway Express Tour (12 monuments in 1 hour and 15 minutes)",
+                    "media": {
+                        "primaryImage": "https:\/\/media-cdn.tripadvisor.com\/media\/attractions-splice-spp-720x480\/09\/b0\/12\/be.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 56.270000000000003,
+                                "currency": "AUD",
+                                "formattedAmount": "$56.27",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 30.370000000000001,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a330.37",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 35,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac35.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 40.149999999999999,
+                                "currency": "USD",
+                                "formattedAmount": "$40.15",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                }
+            ],
+            "__typename": "FindPartnerActivitiesResult"
+        }
+    }
+}
