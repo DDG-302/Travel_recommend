@@ -81,8 +81,7 @@ class Sqlite3_dbhelper:
 
 class Attraction_dbhelper(Sqlite3_dbhelper):
     def __init__(self, table="attraction", database="LonelyPlanet.db") -> None:
-        super().__init__(table, database, path="database/")
-        
+        super().__init__(table, database, path="database/")        
 
     def insert_data(self, attraction_info:Attraction):
         try:

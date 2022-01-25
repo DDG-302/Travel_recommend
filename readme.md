@@ -25,12 +25,23 @@
       }
      ```
 
-  	例如这一条信息中，在`name`下可以看到beer和wine，但是在`longDescription`中还提到了和酒搭配的芝士、蜗牛等美食：
+    	例如这一条信息中，在`name`下可以看到beer和wine，但是在`longDescription`中还提到了和酒搭配的芝士、蜗牛等美食：
 
 > On this Paris tour, you will try some of the city's famous specialties, from snails, to cheese or charcuterie, always paired with wine or beer. Your call what goes best together with the food!
 
 ​	不知道该如何提取这类信息
 
 - 由于目标是做一个可以查询的网页，因此继续使用SQLite并不合适，之后会替换为SQL Server
-
 - 完善程序结构
+
+## 2022/1/25
+
+- 能够连接本地SQLServer，并将获取的数据存入数据库
+
+![sqserver](pic/sqserver.png)
+
+- 添加了触发器，避免重复数据的存入
+- 整理了程序结构
+  - 做了类的封装
+  - 将爬虫改为异步爬取
+

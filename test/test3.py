@@ -146,6 +146,7 @@ print(params)
 req = requests.get(url2, timeout=20, headers=headers, params=params)
 # req = requests.get(url, timeout=20)
 print(req.url)
+
 # msg = req.text.encode('utf-8').decode('unicode_escape')
 with open("exp_data.json", "w", encoding="utf-8") as f:
     f.write(req.text)
