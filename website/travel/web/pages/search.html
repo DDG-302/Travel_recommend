@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="../js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="../js/search.js"></script>
+    <style type="text/css">
+        @import "../css/body-basic.css";
+        @import "../css/index-style.css";
+        @import "../css/search-style.css";
+        @import "../css/web-header.css";
+    </style>
+    <title>查询</title>
+</head>
+<body>
+    <div id="header" style="width:100%; height:100px;text-align:center;background-color:whitesmoke">
+        <div>
+            <input type="text" id="search_box" class="search_box_small" /><button class="search_btn_small" onclick="search_click()">搜 索</button>
+        </div>
+        <div>
+            <button id="attraction" type="button" style="" onclick="choose_search_type(this)" class="selected">景点</button>
+            <button id="experience" style="" onclick="choose_search_type(this)" class="unselected">游览</button>
+        </div>
+        
+    </div>
+    <div class="main_back" style="height:100%">
+        <div id="main_div" class="main_div">
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml" style="height:100%;width:100%;margin:0;">
+<head style="height:100%;width:100%;margin:0;">
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            console.log("启动！");
+            var senddata = {
+                "search_data": ""
+                ,
+                "page_num": 10,
+                "offset": 0
+            }
+
+            console.log(senddata)
+            $.get("http://127.0.0.1:8001/search",
+                senddata,
+                function (data) {
+                    var i = 0;
+                    //console.log(data["data"]);
+                    //while(i < data["data"].length){
+                    //    console.log(data["data"][i]);
+                    //    i++;
+                    //}
+                    console.log(data);
+                    //$("body").append(data);
+                },
+                "json")
+                console.log("结束！");
+
+                // $.ajax({
+                //     url : "http://127.0.0.1:8000",
+                //     // contentType: "application/json",
+                //     data : JSON.stringify(
+                //         {
+                //             "id" : "114514",
+                //             "name" : "野兽先辈"
+                //         })
+                //     ,
+                //     dataType: "json",
+                //     type: "POST"
+                // }
+                // )
+        }
+        );
+    </script>
+    <title>FASTAPI_TEST</title>
+</head>
+<body>
+    1
+</body>
+</html>

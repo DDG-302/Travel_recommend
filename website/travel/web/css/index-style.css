@@ -1,0 +1,49 @@
+﻿.main_back {
+    /*    background-image: url(../img/background/star.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;*/
+    filter: alpha(opacity=30);
+    width: 100%;
+    height: 100%;
+   
+}
+
+body {
+    background-color: #66ccff;
+}
+
+
+
+.main_div {
+    width: 50%;
+    height: auto;
+    float:left;
+    padding:50px 10% 50px 10%;
+    margin:50px 15% 50px 15%;
+    /*margin:0, auto;*/
+    position: relative;
+    text-align:center;
+    /*margin:200px,300px,20px,30px;*/
+    /*background-color: #FFCCCC;*/
+    background-color:whitesmoke;
+    /*background-repeat: no-repeat;
+        background-size:contain;*/
+    /*margin-top: 50px;*/
+}
+
+.search_btn {
+
+    background-color: transparent;
+    border: none;
+    transition: 0.5s;
+    height: 50px;
+    width: 50%;
+    font-size:21px;
+    font-weight:bold;
+}
+
+
+.search_btn:hover {
+    background: #66CCCC;
+}
+
