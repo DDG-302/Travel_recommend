@@ -112,7 +112,7 @@ class Attraction_crawler(Crawler):
             return
         if(data["record_count"] != self.per_page):
             self.flag = False
-        json_name = "page_" + str(self.per_page) + ".json"
+        json_name = "page_" + str(params["page"]) + ".json"
         write_json(json_name, "json_data/attraction/", data)
         for attraction in data["records"]["pois"]:
             attraction_info = Attraction()
@@ -188,13 +188,14 @@ class Experience_crawler(Crawler):
         if(data == None):
             self.flag = False
             return
-        json_name = "offset_" + str(self.offset) + "_limit_" + str(self.epoch_offset) + ".json"
+        json_name = "offset_" + str(params["variables"]["offset"]) + "_limit_" + str(self.epoch_offset) + ".json"
         write_json(json_name, "json_data/experience/", data)
         for experience in data["data"]["activities"]["entities"]:
             experience_info = Experience()
             experience_info.name = experience["name"]
             experience_info.category = experience["canonicalCategory"]
-            experience_info.city = "france/paris"
+            experience_info.city = code_city_pair[citycode]
+            experience_info.short_description = experience["descriptions"]["shortDescription"]
             super().save_2_db(experience_info, Experience_sqlserver_helper(server=server, uid=uid, pwd=pwd)) 
 
 

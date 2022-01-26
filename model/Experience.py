@@ -12,3 +12,4 @@ class Experience(BaseModel):
     category:str = ""
     name:str = ""
     city:str = ""
+    short_description:str = ""

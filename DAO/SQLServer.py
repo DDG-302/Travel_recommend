@@ -1,8 +1,9 @@
 import pyodbc
 from model.Attraction import Attraction
 from model.Experience import Experience
+from model.Search_info import Search_info
 from pydantic import BaseModel
-
+import config
 
 class SQLServer_dbhelper:
     def __init__(self, table:str, server:str, database:str, uid:str, pwd:str) -> None:
@@ -14,11 +15,11 @@ class SQLServer_dbhelper:
     def insert_data(self, model:BaseModel):
         pass
 
-    def delete_data(self, idx:int):
-        pass
+    # def delete_data(self, idx:int):
+    #     pass
 
-    def select_data(self, model:BaseModel):
-        pass
+    # def select_data(self, model:BaseModel):
+    #     pass
 
     def excute_update(self, sql:str, values:tuple=None)->int:
         '''
@@ -32,7 +33,7 @@ class SQLServer_dbhelper:
                 cur.execute(sql)
             self.connection.commit()
             return cur.rowcount
-        except pyodbc.Warning as e:
+        except pyodbc.DatabaseError as e:
             print("数据库错误")
             print(str(e))
         except BaseException as e:
@@ -55,7 +56,7 @@ class SQLServer_dbhelper:
                 data = cur.execute(sql).fetchall()
                 self.connection.commit()
                 return data
-        except pyodbc.Warning as e:
+        except pyodbc.DatabaseError as e:
             print("数据库错误")
             print(str(e))
         except BaseException as e:
@@ -63,7 +64,7 @@ class SQLServer_dbhelper:
             print(str(e))
 
 class Attraction_sqlserver_helper(SQLServer_dbhelper):
-    def __init__(self, server: str, uid: str, pwd: str, database: str="Travel_recommend", table: str="attraction") -> None:
+    def __init__(self, server: str=config.sqlserver_server, uid: str=config.sqlserver_uid, pwd: str=config.sqlserver_pwd, database: str="Travel_recommend", table: str="attraction") -> None:
         super().__init__(table, server, database, uid, pwd)
 
     def insert_data(self, attraction_info: BaseModel):
@@ -72,7 +73,7 @@ class Attraction_sqlserver_helper(SQLServer_dbhelper):
             cur.execute("INSERT INTO " + self.table + " (city, name, score, place) VALUES (?,?,?,?)", (attraction_info.city, attraction_info.name, attraction_info.score, attraction_info.place))
             self.connection.commit()
             return cur.rowcount
-        except pyodbc.Warning as e:
+        except pyodbc.DatabaseError as e:
             print("数据库错误")
             print(str(e))
         except BaseException as e:
@@ -89,18 +90,29 @@ class Attraction_sqlserver_helper(SQLServer_dbhelper):
         values = (name,)
         return super().excute_query(sql, values)
 
+    def select_data_by_city(self, search_info:Search_info, like:str=""):
+        sql = "SELECT TOP " + str(search_info.page_num) + " * FROM " + self.table + " WHERE ("
+        if(like == ""):
+            like = "city LIKE ? "
+            idx = 1
+            while(idx < len(search_info.search_data)):
+                like = like + " OR city LIKE ? "
+                idx += 1
+        sql = sql + like + ") AND idx not in ( SELECT TOP "+ str(search_info.offset) +" idx FROM " + self.table + " WHERE " + like + " ORDER BY score DESC) ORDER BY score DESC"
+        return super().excute_query(sql, tuple(search_info.search_data + search_info.search_data))
 
+        
 class Experience_sqlserver_helper(SQLServer_dbhelper):
-    def __init__(self, server: str,  uid: str, pwd: str, database: str="Travel_recommend", table: str="experiences") -> None:
+    def __init__(self, server: str=config.sqlserver_server,  uid: str=config.sqlserver_uid, pwd: str=config.sqlserver_pwd, database: str="Travel_recommend", table: str="experiences") -> None:
         super().__init__(table, server, database, uid, pwd)
 
     def insert_data(self, experience_info:Experience):
         try:
             cur = self.connection.cursor()
-            cur.execute("INSERT INTO " + self.table + " (category, name, city) VALUES (?,?,?)", (experience_info.category, experience_info.name, experience_info.city))
+            cur.execute("INSERT INTO " + self.table + " (category, name, city, short_description) VALUES (?,?,?, ?)", (experience_info.category, experience_info.name, experience_info.city, experience_info.short_description))
             self.connection.commit()
             return cur.rowcount
-        except pyodbc.Warning as e:
+        except pyodbc.DatabaseError as e:
             print("数据库错误")
             print(str(e))
             return -2
@@ -109,3 +121,21 @@ class Experience_sqlserver_helper(SQLServer_dbhelper):
             print(str(e))
             return -2
 
+    def select_data_by_city(self, search_info:Search_info, like:str=""):
+        sql = "SELECT TOP " + str(search_info.page_num) + " * FROM " + self.table + " WHERE ("
+        if(like == ""):
+            like = "city LIKE ? "
+            idx = 1
+            while(idx < len(search_info.search_data)):
+                like = like + " OR city LIKE ? "
+                idx += 1
+        sql = sql + like + ") AND idx not in ( SELECT TOP "+ str(search_info.offset) +" idx FROM " + self.table + " WHERE " + like + " )"
+        return super().excute_query(sql, tuple(search_info.search_data + search_info.search_data))
+
+# test = Attraction_sqlserver_helper()
+# print(test.excute_query("SELECT TOP 1 *  FROM " + test.table + " WHERE city LIKE ? AND idx NOT IN ( SELECT TOP 1 idx FROM " + test.table +" WHERE city LIKE ?)", ("%PA%","%PA%")))
+
+# test = [1, 2, 3]
+# print(test)
+# test = test + test
+# print(test)
