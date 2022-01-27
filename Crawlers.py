@@ -3,6 +3,7 @@ import urllib
 import json
 # from DAO.Sqlite3 import Attraction_dbhelper, Experience_dbhelper, Sqlite3_dbhelper
 from DAO.SQLServer import Attraction_sqlserver_helper, Experience_sqlserver_helper, SQLServer_dbhelper
+from DAO.Sqlite3 import Attraction_dbhelper, Experience_dbhelper
 from model.Attraction import Attraction
 from model.Experience import Experience
 from pydantic import BaseModel
@@ -197,5 +198,4 @@ class Experience_crawler(Crawler):
             experience_info.city = code_city_pair[citycode]
             experience_info.short_description = experience["descriptions"]["shortDescription"]
             super().save_2_db(experience_info, Experience_sqlserver_helper(server=server, uid=uid, pwd=pwd)) 
-
 

@@ -1,3 +1,23 @@
+## 说明
+
+- DAO
+  - 数据库访问
+- BLL
+  - HTTP服务的处理
+- database
+  - **SQLite数据库，其中的表结构和SQLServer的一致**
+- model
+  - 模型类，包括HTTP请求和数据库访问的模型
+- website
+  - 查询网页
+- json_data
+  - 爬取到的原始数据，**在attraction数据中可以看到score信息**
+- Crawlers.py
+  - 爬虫程序
+- main.py
+  - 爬虫调用
+- main_server.py
+
 ## 2022/1/26
 
 - 完成数据库访问接口

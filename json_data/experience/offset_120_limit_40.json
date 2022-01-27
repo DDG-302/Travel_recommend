@@ -3,155 +3,49 @@
         "activities": {
             "entities": [
                 {
-                    "canonicalCategory": "Art & Culture",
-                    "departureInfo": "Paris, Paris, Ile-de-France",
+                    "canonicalCategory": "Travel & Transportation Services",
+                    "departureInfo": "Espl. du Trocad\u00e9ro, 75116 Paris, France",
                     "descriptions": {
                         "longDescription": "",
-                        "shortDescription": "The best way to see the Mona Lisa is without the crowds that almost always surround her. Because there is no way to get her all to yourself, we\u2019ve done the next best thing: As the museum starts to close and everyone else rushes for the doors, we take advantage of the natural thinning of crowds. Entering at this time, you\u2019ll find the room almost totally empty so you can get up close to the great lady for a peaceful 20 minute visit with your guide. Of course you\u2019ll see the best of the rest too. You\u2019ll spend 3 hours viewing the very best artwork in the Louvre with an art historian, learning what makes these masterpieces so world-renowned. \n\nIMPORTANT NOTE: From July 21st 2021, all sites in Paris that we visit during our tours are requiring clients and guides alike to provide proof of vaccination or a negative test within the past 48-hours for entry. You can read more about it on the French Government website.",
+                        "shortDescription": "All my clients have been satisfied with my pictures.\n\nYou can see more on my Instagram page \n\nI will guide you and make you feel confident in order to get the best pictures possible. \n\nI have been raised in Paris and lived there almost all my life, I will be able to give you good advice about things to do in the city.\n",
                         "__typename": "PartnerActivityDescriptions"
                     },
                     "duration": {
                         "unit": "HOURS",
-                        "value": 3,
+                        "value": 1,
                         "__typename": "PartnerActivityDuration"
                     },
-                    "id": "v-46018P5",
-                    "name": "Skip the Line - Closing Time with the Mona Lisa",
+                    "id": "v-156765P1",
+                    "name": "Private Guided Photoshoot Experience at the Eiffel Tower",
                     "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/6c/69/5b.jpg",
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/c6/dd/5a.jpg",
                         "__typename": "PartnerActivityMedia"
                     },
                     "prices": {
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 142.97,
+                                "amount": 128.7,
                                 "currency": "AUD",
-                                "formattedAmount": "$142.97",
+                                "formattedAmount": "$128.7",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 77.34,
+                                "amount": 68.21,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a377.34",
+                                "formattedAmount": "\u00a368.21",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 90.63,
+                                "amount": 80,
                                 "currency": "EUR",
-                                "formattedAmount": "\u20ac90.63",
+                                "formattedAmount": "\u20ac80.0",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 100.8,
+                                "amount": 92.02,
                                 "currency": "USD",
-                                "formattedAmount": "$100.8",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Returns to original departure point",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Art & Culture",
-                    "departureInfo": "Pont d'I\u00e9na, Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "Your visit to Paris wouldn\u2019t be complete without a climb to the top of the world-famous icon of France, the Eiffel Tower. Why not ensure that your experience is as smooth and easy as possible? Discover the fascinating stories behind the construction of the \u2018Iron Lady\u2019, and gaze upon the Paris skyline as your guide discusses the many famous monuments on display as you continue your ascension to the top of the tower and behold the City of Lights extending at your feet with the Skip-the-line tour.",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 1.5,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-46334P29",
-                    "name": "Eiffel Tower Priority Access Guided Tour with Summit Access",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/6c/6c/c7.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 114.2,
-                                "currency": "AUD",
-                                "formattedAmount": "$114.2",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 61.64,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a361.64",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 71.03,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac71.03",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 81.48,
-                                "currency": "USD",
-                                "formattedAmount": "$81.48",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Eiffel Tower, Paris, France",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Tours, Sightseeing & Cruises",
-                    "departureInfo": "10 Rue de la Paix, 75002 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "We offer you to discover Paris with our guide while riding our e-bikes that are the brand new fashion product when it comes to urban electric mobility .\n\nOur bikes does not require any driving licence.\n\nForget the stress of urban classics transports , very comfortable and silencious they will propel you up to 25km/h.\n\nWith their large tires , their disc brake system and their comfortable stool our electric bikes are accessible to everyone , their handling doesnt require more than 5 minutes .Please note that because the saddle is fixed a minimum size is required to drive ( 1m55 or 5'01 feet ).\n\nOur courses are mainly on bike lanes and sidewalks which means our tours are totaly adapted to teenagers and family friendly\n\nIf you got any questions or appr\u00e9hension our team is here to provide demonstration and give you all the informations necessary to ensure your trip is gonna be safe and fun\u00a0\n\nNote: The indicative duration of the tour includes the briefing and test drive.\n\nSee you soon .",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 2,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-87668P1",
-                    "name": "Paris Sightseeing Family Friendly Guided Electric Bike Tour",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/e1/e9/a3.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 104.34,
-                                "currency": "AUD",
-                                "formattedAmount": "$104.34",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 56.45,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a356.45",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 65,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac65.0",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 74.73,
-                                "currency": "USD",
-                                "formattedAmount": "$74.73",
+                                "formattedAmount": "$92.02",
                                 "__typename": "Price"
                             }
                         ],
@@ -184,15 +78,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 160.96,
+                                "amount": 164.29,
                                 "currency": "AUD",
-                                "formattedAmount": "$160.96",
+                                "formattedAmount": "$164.29",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 87.47,
+                                "amount": 86.91,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a387.47",
+                                "formattedAmount": "\u00a386.91",
                                 "__typename": "Price"
                             },
                             {
@@ -202,9 +96,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 120.95,
+                                "amount": 117.31,
                                 "currency": "USD",
-                                "formattedAmount": "$120.95",
+                                "formattedAmount": "$117.31",
                                 "__typename": "Price"
                             }
                         ],
@@ -212,59 +106,6 @@
                     },
                     "provider": "VIATOR",
                     "returnInfo": null,
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Travel & Transportation Services",
-                    "departureInfo": "Espl. du Trocad\u00e9ro, 75116 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "All my clients have been satisfied with my pictures.\n\nYou can see more on my Instagram page \n\nI will guide you and make you feel confident in order to get the best pictures possible. \n\nI have been raised in Paris and lived there almost all my life, I will be able to give you good advice about things to do in the city.\n",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 1,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-156765P1",
-                    "name": "Private Guided Photoshoot Experience at the Eiffel Tower",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/c6/dd/5a.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 128.62,
-                                "currency": "AUD",
-                                "formattedAmount": "$128.62",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 69.42,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a369.42",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 80,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac80.0",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 91.77,
-                                "currency": "USD",
-                                "formattedAmount": "$91.77",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Returns to original departure point",
                     "__typename": "PartnerActivity"
                 },
                 {
@@ -290,15 +131,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 315.37,
+                                "amount": 316.76,
                                 "currency": "AUD",
-                                "formattedAmount": "$315.37",
+                                "formattedAmount": "$316.76",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 170.62,
+                                "amount": 167.56,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3170.62",
+                                "formattedAmount": "\u00a3167.56",
                                 "__typename": "Price"
                             },
                             {
@@ -308,9 +149,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 225.87,
+                                "amount": 226.18,
                                 "currency": "USD",
-                                "formattedAmount": "$225.87",
+                                "formattedAmount": "$226.18",
                                 "__typename": "Price"
                             }
                         ],
@@ -343,15 +184,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 78.65,
+                                "amount": 79,
                                 "currency": "AUD",
-                                "formattedAmount": "$78.65",
+                                "formattedAmount": "$79.0",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 42.55,
+                                "amount": 41.79,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a342.55",
+                                "formattedAmount": "\u00a341.79",
                                 "__typename": "Price"
                             },
                             {
@@ -361,9 +202,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 56.33,
+                                "amount": 56.41,
                                 "currency": "USD",
-                                "formattedAmount": "$56.33",
+                                "formattedAmount": "$56.41",
                                 "__typename": "Price"
                             }
                         ],
@@ -396,15 +237,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 19.55,
+                                "amount": 19.56,
                                 "currency": "AUD",
-                                "formattedAmount": "$19.55",
+                                "formattedAmount": "$19.56",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 10.55,
+                                "amount": 10.37,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a310.55",
+                                "formattedAmount": "\u00a310.37",
                                 "__typename": "Price"
                             },
                             {
@@ -414,9 +255,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 13.95,
+                                "amount": 13.99,
                                 "currency": "USD",
-                                "formattedAmount": "$13.95",
+                                "formattedAmount": "$13.99",
                                 "__typename": "Price"
                             }
                         ],
@@ -424,6 +265,59 @@
                     },
                     "provider": "VIATOR",
                     "returnInfo": "\n \n  Paris Charles de Gaulle Airport, 95700 Roissy-en-France, France\n ",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Outdoor Activities",
+                    "departureInfo": "35 Boulevard Richard-Lenoir, 75011 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "You will travel to the limits of space and time, in an unprecedented experience in the heart of Paris.\n\nExperience the best of collaborative virtual reality, in a specially designed room equipped with the latest technological innovations.\n\nIt's up to you to take up the challenge to share intense moments of complicity, measure your reactivity, your spirit of deduction and cooperation.\n\nAnd if the future of the world was in your hands?\nTo find out, build your team now and join the adventure!",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-176435P1",
+                    "name": "Virtual Room Paris - 1st virtual reality team experience",
+                    "media": {
+                        "primaryImage": "",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 41.84,
+                                "currency": "AUD",
+                                "formattedAmount": "$41.84",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 22.18,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a322.18",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 26.01,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac26.01",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 29.92,
+                                "currency": "USD",
+                                "formattedAmount": "$29.92",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
                     "__typename": "PartnerActivity"
                 },
                 {
@@ -449,15 +343,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 120.26,
+                                "amount": 120.33,
                                 "currency": "AUD",
-                                "formattedAmount": "$120.26",
+                                "formattedAmount": "$120.33",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 64.91,
+                                "amount": 63.77,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a364.91",
+                                "formattedAmount": "\u00a363.77",
                                 "__typename": "Price"
                             },
                             {
@@ -467,62 +361,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 85.8,
+                                "amount": 86.04,
                                 "currency": "USD",
-                                "formattedAmount": "$85.8",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Returns to original departure point",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Outdoor Activities",
-                    "departureInfo": "35 Boulevard Richard-Lenoir, 75011 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "You will travel to the limits of space and time, in an unprecedented experience in the heart of Paris.\n\nExperience the best of collaborative virtual reality, in a specially designed room equipped with the latest technological innovations.\n\nIt's up to you to take up the challenge to share intense moments of complicity, measure your reactivity, your spirit of deduction and cooperation.\n\nAnd if the future of the world was in your hands?\nTo find out, build your team now and join the adventure!",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 1,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-176435P1",
-                    "name": "Virtual Room Paris - 1st virtual reality team experience",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/b9/6d/02.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 41.82,
-                                "currency": "AUD",
-                                "formattedAmount": "$41.82",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 22.57,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a322.57",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 26.01,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac26.01",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 29.84,
-                                "currency": "USD",
-                                "formattedAmount": "$29.84",
+                                "formattedAmount": "$86.04",
                                 "__typename": "Price"
                             }
                         ],
@@ -555,15 +396,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 319.95,
+                                "amount": 320.14,
                                 "currency": "AUD",
-                                "formattedAmount": "$319.95",
+                                "formattedAmount": "$320.14",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 172.68,
+                                "amount": 169.66,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3172.68",
+                                "formattedAmount": "\u00a3169.66",
                                 "__typename": "Price"
                             },
                             {
@@ -573,9 +414,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 228.27,
+                                "amount": 228.91,
                                 "currency": "USD",
-                                "formattedAmount": "$228.27",
+                                "formattedAmount": "$228.91",
                                 "__typename": "Price"
                             }
                         ],
@@ -583,6 +424,59 @@
                     },
                     "provider": "VIATOR",
                     "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing & Cruises",
+                    "departureInfo": "Traveler pickup is offered",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "A 60-minute tour of Madrid so you can get to know the city comfortably and at a glance. Our guides will recommend the best areas to visit and take you on a tour that will give you an idea of what the city has to offer. Ideal for a first contact with the place and for a quick visit, if you are little in the city you can get to know it entirely with Eco Tuk Tuk.\n\nMake your stay in Madrid an unforgettable experience and take a great memory of this wonderful city!\n\nWe comply with the measures to reduce contagion by the Spanish Ministry of Health's COVID19 for guides and means of transportation.\n\n* Note: in winter tuk-tuk have protective layers against rain and wind. They also have blankets so that our clients do not get cold.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "MINUTES",
+                        "value": 59,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-174938P4",
+                    "name": "Express Tour of Madrid in a Private Electric Tuk Tuk",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/2b/67/a2.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 54.7,
+                                "currency": "AUD",
+                                "formattedAmount": "$54.7",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 28.99,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a328.99",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 34,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac34.0",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 39.11,
+                                "currency": "USD",
+                                "formattedAmount": "$39.11",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": null,
                     "__typename": "PartnerActivity"
                 },
                 {
@@ -608,15 +502,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 399.35,
+                                "amount": 399.58,
                                 "currency": "AUD",
-                                "formattedAmount": "$399.35",
+                                "formattedAmount": "$399.58",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 215.53,
+                                "amount": 211.77,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3215.53",
+                                "formattedAmount": "\u00a3211.77",
                                 "__typename": "Price"
                             },
                             {
@@ -626,9 +520,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 284.91,
+                                "amount": 285.71,
                                 "currency": "USD",
-                                "formattedAmount": "$284.91",
+                                "formattedAmount": "$285.71",
                                 "__typename": "Price"
                             }
                         ],
@@ -661,15 +555,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 32.32,
+                                "amount": 32.25,
                                 "currency": "AUD",
-                                "formattedAmount": "$32.32",
+                                "formattedAmount": "$32.25",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 17.29,
+                                "amount": 17.06,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a317.29",
+                                "formattedAmount": "\u00a317.06",
                                 "__typename": "Price"
                             },
                             {
@@ -679,9 +573,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 22.95,
+                                "amount": 23.02,
                                 "currency": "USD",
-                                "formattedAmount": "$22.95",
+                                "formattedAmount": "$23.02",
                                 "__typename": "Price"
                             }
                         ],
@@ -689,59 +583,6 @@
                     },
                     "provider": "VIATOR",
                     "returnInfo": "28 Boulevard de M\u00e9nilmontant, 75020 Paris, France",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Tickets & Passes",
-                    "departureInfo": "FlyView\u00ae Paris, 30 Rue du 4 septembre, 75002 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "Imagine being able to fly \u2014 and experiencing Paris with a bird\u2019s-eye view. FlyView is a unique experience in which visitors fly over Paris and its monuments in virtual reality, complete with real flight sensations. Fly high over the city\u2019s rooftops to explore the Eiffel Tower, the Arc de Triomphe, the Seine and many other famous locations from a perspective you could only dream of... until now.",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "MINUTES",
-                        "value": 35,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-67097P1",
-                    "name": "The Incredible Flyover",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/f0/46/cb.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 31.3,
-                                "currency": "AUD",
-                                "formattedAmount": "$31.3",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 16.93,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a316.93",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 19.5,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac19.5",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 22.46,
-                                "currency": "USD",
-                                "formattedAmount": "$22.46",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": null,
                     "__typename": "PartnerActivity"
                 },
                 {
@@ -767,27 +608,27 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 138.06,
+                                "amount": 152.03,
                                 "currency": "AUD",
-                                "formattedAmount": "$138.06",
+                                "formattedAmount": "$152.03",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 74.51,
+                                "amount": 80.57,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a374.51",
+                                "formattedAmount": "\u00a380.57",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 85.87,
+                                "amount": 94.5,
                                 "currency": "EUR",
-                                "formattedAmount": "\u20ac85.87",
+                                "formattedAmount": "\u20ac94.5",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 98.5,
+                                "amount": 108.7,
                                 "currency": "USD",
-                                "formattedAmount": "$98.5",
+                                "formattedAmount": "$108.7",
                                 "__typename": "Price"
                             }
                         ],
@@ -795,6 +636,59 @@
                     },
                     "provider": "VIATOR",
                     "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tickets & Passes",
+                    "departureInfo": "FlyView\u00ae Paris, 30 Rue du 4 septembre, 75002 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Imagine being able to fly \u2014 and experiencing Paris with a bird\u2019s-eye view. FlyView is a unique experience in which visitors fly over Paris and its monuments in virtual reality, complete with real flight sensations. Fly high over the city\u2019s rooftops to explore the Eiffel Tower, the Arc de Triomphe, the Seine and many other famous locations from a perspective you could only dream of... until now.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "MINUTES",
+                        "value": 35,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-67097P1",
+                    "name": "The Incredible Flyover",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/f0/46/cb.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 31.44,
+                                "currency": "AUD",
+                                "formattedAmount": "$31.44",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 16.63,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a316.63",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 19.5,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac19.5",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 22.45,
+                                "currency": "USD",
+                                "formattedAmount": "$22.45",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": null,
                     "__typename": "PartnerActivity"
                 },
                 {
@@ -820,15 +714,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 281.55,
+                                "amount": 289.58,
                                 "currency": "AUD",
-                                "formattedAmount": "$281.55",
+                                "formattedAmount": "$289.58",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 154.73,
+                                "amount": 153.47,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3154.73",
+                                "formattedAmount": "\u00a3153.47",
                                 "__typename": "Price"
                             },
                             {
@@ -838,9 +732,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 211.57,
+                                "amount": 207.05,
                                 "currency": "USD",
-                                "formattedAmount": "$211.57",
+                                "formattedAmount": "$207.05",
                                 "__typename": "Price"
                             }
                         ],
@@ -873,15 +767,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 191.33,
+                                "amount": 191.44,
                                 "currency": "AUD",
-                                "formattedAmount": "$191.33",
+                                "formattedAmount": "$191.44",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 103.26,
+                                "amount": 101.46,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3103.26",
+                                "formattedAmount": "\u00a3101.46",
                                 "__typename": "Price"
                             },
                             {
@@ -891,9 +785,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 136.5,
+                                "amount": 136.88,
                                 "currency": "USD",
-                                "formattedAmount": "$136.5",
+                                "formattedAmount": "$136.88",
                                 "__typename": "Price"
                             }
                         ],
@@ -926,15 +820,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 267.97,
+                                "amount": 268.13,
                                 "currency": "AUD",
-                                "formattedAmount": "$267.97",
+                                "formattedAmount": "$268.13",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 144.63,
+                                "amount": 142.1,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3144.63",
+                                "formattedAmount": "\u00a3142.1",
                                 "__typename": "Price"
                             },
                             {
@@ -944,9 +838,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 191.18,
+                                "amount": 191.72,
                                 "currency": "USD",
-                                "formattedAmount": "$191.18",
+                                "formattedAmount": "$191.72",
                                 "__typename": "Price"
                             }
                         ],
@@ -979,15 +873,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 69.02,
+                                "amount": 69.18,
                                 "currency": "AUD",
-                                "formattedAmount": "$69.02",
+                                "formattedAmount": "$69.18",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 37.34,
+                                "amount": 36.66,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a337.34",
+                                "formattedAmount": "\u00a336.66",
                                 "__typename": "Price"
                             },
                             {
@@ -997,9 +891,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 49.44,
+                                "amount": 49.46,
                                 "currency": "USD",
-                                "formattedAmount": "$49.44",
+                                "formattedAmount": "$49.46",
                                 "__typename": "Price"
                             }
                         ],
@@ -1032,15 +926,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 72.35,
+                                "amount": 72.39,
                                 "currency": "AUD",
-                                "formattedAmount": "$72.35",
+                                "formattedAmount": "$72.39",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 39.05,
+                                "amount": 38.37,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a339.05",
+                                "formattedAmount": "\u00a338.37",
                                 "__typename": "Price"
                             },
                             {
@@ -1050,9 +944,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 51.62,
+                                "amount": 51.76,
                                 "currency": "USD",
-                                "formattedAmount": "$51.62",
+                                "formattedAmount": "$51.76",
                                 "__typename": "Price"
                             }
                         ],
@@ -1060,59 +954,6 @@
                     },
                     "provider": "VIATOR",
                     "returnInfo": "Returns to original departure point",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Tours, Sightseeing & Cruises",
-                    "departureInfo": "Traveler pickup is offered",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "A 60-minute tour of Madrid so you can get to know the city comfortably and at a glance. Our guides will recommend the best areas to visit and take you on a tour that will give you an idea of what the city has to offer. Ideal for a first contact with the place and for a quick visit, if you are little in the city you can get to know it entirely with Eco Tuk Tuk.\n\nMake your stay in Madrid an unforgettable experience and take a great memory of this wonderful city!\n\nWe comply with the measures to reduce contagion by the Spanish Ministry of Health's COVID19 for guides and means of transportation.\n\n* Note: in winter tuk-tuk have protective layers against rain and wind. They also have blankets so that our clients do not get cold.",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "MINUTES",
-                        "value": 59,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-174938P4",
-                    "name": "Private Express Tour of Madrid in Electric Tuk Tuk",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/2b/5c/ec.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 68.22,
-                                "currency": "AUD",
-                                "formattedAmount": "$68.22",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 36.91,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a336.91",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 42.5,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac42.5",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 48.86,
-                                "currency": "USD",
-                                "formattedAmount": "$48.86",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": null,
                     "__typename": "PartnerActivity"
                 },
                 {
@@ -1138,15 +979,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 130.52,
+                                "amount": 130.81,
                                 "currency": "AUD",
-                                "formattedAmount": "$130.52",
+                                "formattedAmount": "$130.81",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 70.61,
+                                "amount": 69.32,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a370.61",
+                                "formattedAmount": "\u00a369.32",
                                 "__typename": "Price"
                             },
                             {
@@ -1156,9 +997,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 93.48,
+                                "amount": 93.53,
                                 "currency": "USD",
-                                "formattedAmount": "$93.48",
+                                "formattedAmount": "$93.53",
                                 "__typename": "Price"
                             }
                         ],
@@ -1191,15 +1032,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 40.78,
+                                "amount": 40.9,
                                 "currency": "AUD",
-                                "formattedAmount": "$40.78",
+                                "formattedAmount": "$40.9",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 21.86,
+                                "amount": 21.64,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a321.86",
+                                "formattedAmount": "\u00a321.64",
                                 "__typename": "Price"
                             },
                             {
@@ -1209,9 +1050,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 29.17,
+                                "amount": 29.21,
                                 "currency": "USD",
-                                "formattedAmount": "$29.17",
+                                "formattedAmount": "$29.21",
                                 "__typename": "Price"
                             }
                         ],
@@ -1244,15 +1085,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 56.27,
+                                "amount": 56.31,
                                 "currency": "AUD",
-                                "formattedAmount": "$56.27",
+                                "formattedAmount": "$56.31",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 30.37,
+                                "amount": 29.84,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a330.37",
+                                "formattedAmount": "\u00a329.84",
                                 "__typename": "Price"
                             },
                             {
@@ -1262,9 +1103,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 40.15,
+                                "amount": 40.26,
                                 "currency": "USD",
-                                "formattedAmount": "$40.15",
+                                "formattedAmount": "$40.26",
                                 "__typename": "Price"
                             }
                         ],
@@ -1297,15 +1138,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 142.71,
+                                "amount": 142.57,
                                 "currency": "AUD",
-                                "formattedAmount": "$142.71",
+                                "formattedAmount": "$142.57",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 76.6,
+                                "amount": 75.42,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a376.6",
+                                "formattedAmount": "\u00a375.42",
                                 "__typename": "Price"
                             },
                             {
@@ -1315,9 +1156,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 101.96,
+                                "amount": 101.8,
                                 "currency": "USD",
-                                "formattedAmount": "$101.96",
+                                "formattedAmount": "$101.8",
                                 "__typename": "Price"
                             }
                         ],
@@ -1350,15 +1191,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 97.92,
+                                "amount": 98.13,
                                 "currency": "AUD",
-                                "formattedAmount": "$97.92",
+                                "formattedAmount": "$98.13",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 52.98,
+                                "amount": 52.01,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a352.98",
+                                "formattedAmount": "\u00a352.01",
                                 "__typename": "Price"
                             },
                             {
@@ -1368,9 +1209,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 70.13,
+                                "amount": 70.17,
                                 "currency": "USD",
-                                "formattedAmount": "$70.13",
+                                "formattedAmount": "$70.17",
                                 "__typename": "Price"
                             }
                         ],
@@ -1403,15 +1244,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 1205.86,
+                                "amount": 1209.2,
                                 "currency": "AUD",
-                                "formattedAmount": "$1205.86",
+                                "formattedAmount": "$1209.2",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 650.82,
+                                "amount": 639.64,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3650.82",
+                                "formattedAmount": "\u00a3639.64",
                                 "__typename": "Price"
                             },
                             {
@@ -1421,9 +1262,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 860.3,
+                                "amount": 863.41,
                                 "currency": "USD",
-                                "formattedAmount": "$860.3",
+                                "formattedAmount": "$863.41",
                                 "__typename": "Price"
                             }
                         ],
@@ -1431,112 +1272,6 @@
                     },
                     "provider": "VIATOR",
                     "returnInfo": null,
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Tours, Sightseeing & Cruises",
-                    "departureInfo": "Rue Jean Rey, 75015 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "The tour is perfect for those who prefer to explore independently. Discover the dazzling royal residence of Versailles, the largest and most sumptuous ever built by a reigning monarch and surrounded by gardens and parklands. Transfers from Paris, entrance fees to the gardens, Versailles and the Grand Royal Apartments are included. Thanks to the app downloaded on your mobile, enjoy interactive comments to make your experience more funny.",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 7.5,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-2050VV_VVG",
-                    "name": "Versailles Half Day Trip from Paris with Audio Guided Visit",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/6f/4c/9a.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 122.56,
-                                "currency": "AUD",
-                                "formattedAmount": "$122.56",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 66.15,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a366.15",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 76.23,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac76.23",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 87.44,
-                                "currency": "USD",
-                                "formattedAmount": "$87.44",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Returns to original departure point",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Art & Culture",
-                    "departureInfo": "Louvre Museum, Rue de Rivoli, 75001 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "We understand how intimidating it can be to plan a trip to Paris, let alone a visit to the Louvre, which is why we offer one of the best Louvre tours in Paris. With exclusive skip the line tickets and a passionate art-loving guide to lead your small group through one of the most impressive museums in Paris, you are sure to make the most out of your Louvre visit. Our professional guides are true experts who will bring the museum to life with detailed stories about the artwork inside.\u00a0\n\nThe Louvre is known as the largest art museum on earth and a very important historical landmark of Paris. The most notable works of art, of course, are Leonardo da Vinci\u2019s iconic Mona Lisa and amazing sculptures like the Venus de Milo and the Nike.",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 3,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-67584P1",
-                    "name": "Paris Louvre Magnificent Museum Skip the Line Access Guided Tour",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/b2/5a/bb.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 114.1,
-                                "currency": "AUD",
-                                "formattedAmount": "$114.1",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 61.73,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a361.73",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 71.08,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac71.08",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 81.72,
-                                "currency": "USD",
-                                "formattedAmount": "$81.72",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Returns to original departure point",
                     "__typename": "PartnerActivity"
                 },
                 {
@@ -1562,133 +1297,27 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 97.22,
+                                "amount": 105.33,
                                 "currency": "AUD",
-                                "formattedAmount": "$97.22",
+                                "formattedAmount": "$105.33",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 52.47,
+                                "amount": 55.82,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a352.47",
+                                "formattedAmount": "\u00a355.82",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 60.47,
+                                "amount": 65.47,
                                 "currency": "EUR",
-                                "formattedAmount": "\u20ac60.47",
+                                "formattedAmount": "\u20ac65.47",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 69.36,
+                                "amount": 75.31,
                                 "currency": "USD",
-                                "formattedAmount": "$69.36",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Returns to original departure point",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Tours, Sightseeing & Cruises",
-                    "departureInfo": "61 Rue Henry Farman, 75015 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "Take to the skies above Paris on a helicopter tour to Versailles! Soar over the Seine River, Bois de Boulogne and incredible Versailles Palace before landing near Versailles to enjoy a complimentary drink, take photos in front of your helicopter and learn about flying from your pilot. On your return flight to Paris, enjoy bird\u2019s-eye views of Trocad\u00e9ro, Montparnasse, La D\u00e9fense and the Eiffel Tower in the distance.\u00a0\n* In the case of bad weather, the flight may need to be rescheduled for an alternative date. Please book your flight for one of the first days of your stay in Paris in order to allow for possible rescheduling.",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 1.5,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-6391HELICOPTERPARIS",
-                    "name": "Versailles Helicopter Tour from Paris",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/8f/4a/a5.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 386.3,
-                                "currency": "AUD",
-                                "formattedAmount": "$386.3",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 206.77,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a3206.77",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 239,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac239.0",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 274.59,
-                                "currency": "USD",
-                                "formattedAmount": "$274.59",
-                                "__typename": "Price"
-                            }
-                        ],
-                        "__typename": "PartnerActivityPrices"
-                    },
-                    "provider": "VIATOR",
-                    "returnInfo": "Returns to original departure point",
-                    "__typename": "PartnerActivity"
-                },
-                {
-                    "canonicalCategory": "Tours, Sightseeing & Cruises",
-                    "departureInfo": "2 Avenue Kl\u00e9ber, 75116 Paris, France",
-                    "descriptions": {
-                        "longDescription": "",
-                        "shortDescription": "On this unique panoramic bus tour, enjoy a lunch in true Parisian style while admiring top Paris attractions including the Eiffel Tower, the Louvre Museum, Opera, Invalides, Grand et Petit Palais,the Champs-Elys\u00e9es... \nBoard a glass-enclosed, double-decker bus, take a seat at your table, and take in beautiful views of Paris from every angle as you munch on fine French cuisine.\u00a0\nEnjoy your preferred 4-course lunch tour option experience exclusively with Viator!",
-                        "__typename": "PartnerActivityDescriptions"
-                    },
-                    "duration": {
-                        "unit": "HOURS",
-                        "value": 1.5,
-                        "__typename": "PartnerActivityDuration"
-                    },
-                    "id": "v-6829P5",
-                    "name": "Paris City Tour and Lunch by Luxury Bus",
-                    "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/09/97/17.jpg",
-                        "__typename": "PartnerActivityMedia"
-                    },
-                    "prices": {
-                        "discounted": [],
-                        "regular": [
-                            {
-                                "amount": 113.3,
-                                "currency": "AUD",
-                                "formattedAmount": "$113.3",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 61.15,
-                                "currency": "GBP",
-                                "formattedAmount": "\u00a361.15",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 70.47,
-                                "currency": "EUR",
-                                "formattedAmount": "\u20ac70.47",
-                                "__typename": "Price"
-                            },
-                            {
-                                "amount": 80.83,
-                                "currency": "USD",
-                                "formattedAmount": "$80.83",
+                                "formattedAmount": "$75.31",
                                 "__typename": "Price"
                             }
                         ],
@@ -1721,15 +1350,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 62.7,
+                                "amount": 62.74,
                                 "currency": "AUD",
-                                "formattedAmount": "$62.7",
+                                "formattedAmount": "$62.74",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 33.84,
+                                "amount": 33.25,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a333.84",
+                                "formattedAmount": "\u00a333.25",
                                 "__typename": "Price"
                             },
                             {
@@ -1739,9 +1368,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 44.74,
+                                "amount": 44.86,
                                 "currency": "USD",
-                                "formattedAmount": "$44.74",
+                                "formattedAmount": "$44.86",
                                 "__typename": "Price"
                             }
                         ],
@@ -1753,48 +1382,154 @@
                 },
                 {
                     "canonicalCategory": "Tours, Sightseeing & Cruises",
-                    "departureInfo": "22 Rue Jean Rey, 75015 Paris, France",
+                    "departureInfo": "Rue Jean Rey, 75015 Paris, France",
                     "descriptions": {
                         "longDescription": "",
-                        "shortDescription": "Discover the home of Claude Monet, his workshop, and the impressive garden surrounding his home outside of Paris. Your audio-guided tour will depart from Paris, with a travel time of about 1.5 hours on an air-conditioned bus. \n\nGiverny, a quaint village in Normandy, attracted many Impressionist painters in the 19th century; they followed the lead of the movement\u2019s founder, Claude Monet, who lived there for 43 years.\n\nOn arrival, you will have 2 hours to tour the home and grounds, visit in complete freedom with your audioguide the Master\u2019s house where the spectacular colors and enchanting garden were designed like a work of art. Walk through history as you see how Monet lived and was inspired by his surroundings. \nYou will be dazzled by the flowerbeds and plants, and you will sense the artist\u2019s emotions in front of the famous water lilies and weeping willows in\nthe water garden.\n\nAt the end of the tour, you'll travel back to Paris at the original departure location.",
+                        "shortDescription": "The tour is perfect for those who prefer to explore independently. Discover the dazzling royal residence of Versailles, the largest and most sumptuous ever built by a reigning monarch and surrounded by gardens and parklands. Transfers from Paris, entrance fees to the gardens, Versailles and the Grand Royal Apartments are included. Thanks to the app downloaded on your mobile, enjoy interactive comments to make your experience more funny.",
                         "__typename": "PartnerActivityDescriptions"
                     },
                     "duration": {
                         "unit": "HOURS",
-                        "value": 5,
+                        "value": 7.5,
                         "__typename": "PartnerActivityDuration"
                     },
-                    "id": "v-2050P181",
-                    "name": "Giverny & Monet's House From Paris Audio Guided Half-day Tour",
+                    "id": "v-2050VV_VVG",
+                    "name": "Versailles Half Day Trip from Paris with Audio Guided Visit",
                     "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/d7/11/70.jpg",
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/6f/4c/9a.jpg",
                         "__typename": "PartnerActivityMedia"
                     },
                     "prices": {
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 112.57,
+                                "amount": 122.64,
                                 "currency": "AUD",
-                                "formattedAmount": "$112.57",
+                                "formattedAmount": "$122.64",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 60.9,
+                                "amount": 64.99,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a360.9",
+                                "formattedAmount": "\u00a364.99",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 70.13,
+                                "amount": 76.23,
                                 "currency": "EUR",
-                                "formattedAmount": "\u20ac70.13",
+                                "formattedAmount": "\u20ac76.23",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 80.63,
+                                "amount": 87.69,
                                 "currency": "USD",
-                                "formattedAmount": "$80.63",
+                                "formattedAmount": "$87.69",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Art & Culture",
+                    "departureInfo": "Louvre Museum, Rue de Rivoli, 75001 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "We understand how intimidating it can be to plan a trip to Paris, let alone a visit to the Louvre, which is why we offer one of the best Louvre tours in Paris. With exclusive skip the line tickets and a passionate art-loving guide to lead your small group through one of the most impressive museums in Paris, you are sure to make the most out of your Louvre visit. Our professional guides are true experts who will bring the museum to life with detailed stories about the artwork inside.\u00a0\n\nThe Louvre is known as the largest art museum on earth and a very important historical landmark of Paris. The most notable works of art, of course, are Leonardo da Vinci\u2019s iconic Mona Lisa and amazing sculptures like the Venus de Milo and the Nike.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 3,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-67584P1",
+                    "name": "Paris Louvre Magnificent Museum Skip the Line Access Guided Tour",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/b2/5a/bb.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 112.53,
+                                "currency": "AUD",
+                                "formattedAmount": "$112.53",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 59.64,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a359.64",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 69.95,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac69.95",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 80.46,
+                                "currency": "USD",
+                                "formattedAmount": "$80.46",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing & Cruises",
+                    "departureInfo": "Stade de France - Saint-Denis RER, 93210 Saint-Denis, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Step into the France largest stadium which hosted the finals of the FIFA World Cup 1998 and UEFA Euro Cup 2016! Learn about the architecture, sit as a spectator and walk in private areas. Your guided tour\u00a0will last 90 minutes and you will then be able to visit the Museum fulled with unique items (included in the price of your ticket).",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-5717P26",
+                    "name": "Stade de France: Behind the Scenes Tour",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/71/9c/9d.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 24.5,
+                                "currency": "AUD",
+                                "formattedAmount": "$24.5",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 12.98,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a312.98",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 15.23,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac15.23",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 17.52,
+                                "currency": "USD",
+                                "formattedAmount": "$17.52",
                                 "__typename": "Price"
                             }
                         ],
@@ -1827,15 +1562,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 88.08,
+                                "amount": 88.13,
                                 "currency": "AUD",
-                                "formattedAmount": "$88.08",
+                                "formattedAmount": "$88.13",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 47.54,
+                                "amount": 46.7,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a347.54",
+                                "formattedAmount": "\u00a346.7",
                                 "__typename": "Price"
                             },
                             {
@@ -1845,9 +1580,221 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 62.84,
+                                "amount": 63.01,
                                 "currency": "USD",
-                                "formattedAmount": "$62.84",
+                                "formattedAmount": "$63.01",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing & Cruises",
+                    "departureInfo": "61 Rue Henry Farman, 75015 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Take to the skies above Paris on a helicopter tour to Versailles! Soar over the Seine River, Bois de Boulogne and incredible Versailles Palace before landing near Versailles to enjoy a complimentary drink, take photos in front of your helicopter and learn about flying from your pilot. On your return flight to Paris, enjoy bird\u2019s-eye views of Trocad\u00e9ro, Montparnasse, La D\u00e9fense and the Eiffel Tower in the distance.\u00a0\n* In the case of bad weather, the flight may need to be rescheduled for an alternative date. Please book your flight for one of the first days of your stay in Paris in order to allow for possible rescheduling.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-6391HELICOPTERPARIS",
+                    "name": "Versailles Helicopter Tour from Paris",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/8f/4a/a5.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 354.5,
+                                "currency": "AUD",
+                                "formattedAmount": "$354.5",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 187.53,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3187.53",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 219.88,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac219.88",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 253.13,
+                                "currency": "USD",
+                                "formattedAmount": "$253.13",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing & Cruises",
+                    "departureInfo": "2 Avenue Kl\u00e9ber, 75116 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "On this unique panoramic bus tour, enjoy a lunch in true Parisian style while admiring top Paris attractions including the Eiffel Tower, the Louvre Museum, Opera, Invalides, Grand et Petit Palais,the Champs-Elys\u00e9es... \nBoard a glass-enclosed, double-decker bus, take a seat at your table, and take in beautiful views of Paris from every angle as you munch on fine French cuisine.\u00a0\nEnjoy your preferred 4-course lunch tour option experience exclusively with Viator!",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 1.5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-6829P5",
+                    "name": "Paris City Tour and Lunch by Luxury Bus",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/09/97/17.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 113.62,
+                                "currency": "AUD",
+                                "formattedAmount": "$113.62",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 60.1,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a360.1",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 70.47,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac70.47",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 81.13,
+                                "currency": "USD",
+                                "formattedAmount": "$81.13",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing & Cruises",
+                    "departureInfo": "Traveler pickup is offeredWe will pick you up anywhere in Paris :)",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "This\u00a02 hours private tour is perfect to experience the real City of Lights. Our idea is to give you the opportunity to visit\u00a0Montmartre with a local !\u00a0\u00a0\n\n To make sure that your experience is perfect, we offer you a bottle of Champagne.\u00a0\n\n This tour in a vintage and convertible car (the unique Citro\u00ebn 2CV) is a perfect way to explore\u00a0Montmartre and Paris\u00a0iconic monuments by night !\u00a0\n\nAsk your driver to stop at the Sacr\u00e9 Coeur so you can enjoy the best view on Paris and take pictures. He will also make sure that you stop at the Eiffel tower right on time for the light show !\n\n Pick up and drop off at your hotel.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 2,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-7839P4",
+                    "name": "Paris and Montmartre by Night Tour in a 2CV",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/74/aa/84.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 330.32,
+                                "currency": "AUD",
+                                "formattedAmount": "$330.32",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 174.73,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3174.73",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 204.88,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac204.88",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 235.86,
+                                "currency": "USD",
+                                "formattedAmount": "$235.86",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": null,
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing & Cruises",
+                    "departureInfo": "22 Rue Jean Rey, 75015 Paris, France",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Discover the home of Claude Monet, his workshop, and the impressive garden surrounding his home outside of Paris. Your audio-guided tour will depart from Paris, with a travel time of about 1.5 hours on an air-conditioned bus. \n\nGiverny, a quaint village in Normandy, attracted many Impressionist painters in the 19th century; they followed the lead of the movement\u2019s founder, Claude Monet, who lived there for 43 years.\n\nOn arrival, you will have 2 hours to tour the home and grounds, visit in complete freedom with your audioguide the Master\u2019s house where the spectacular colors and enchanting garden were designed like a work of art. Walk through history as you see how Monet lived and was inspired by his surroundings. \nYou will be dazzled by the flowerbeds and plants, and you will sense the artist\u2019s emotions in front of the famous water lilies and weeping willows in\nthe water garden.\n\nAt the end of the tour, you'll travel back to Paris at the original departure location.",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 5,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-2050P181",
+                    "name": "Giverny & Monet's House From Paris Audio Guided Half-day Tour",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/d7/11/70.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 113.07,
+                                "currency": "AUD",
+                                "formattedAmount": "$113.07",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 59.81,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a359.81",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 70.13,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac70.13",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 80.73,
+                                "currency": "USD",
+                                "formattedAmount": "$80.73",
                                 "__typename": "Price"
                             }
                         ],
@@ -1880,27 +1827,27 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 174.97,
+                                "amount": 178.57,
                                 "currency": "AUD",
-                                "formattedAmount": "$174.97",
+                                "formattedAmount": "$178.57",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 94.66,
+                                "amount": 94.64,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a394.66",
+                                "formattedAmount": "\u00a394.64",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 109,
+                                "amount": 111,
                                 "currency": "EUR",
-                                "formattedAmount": "\u20ac109.0",
+                                "formattedAmount": "\u20ac111.0",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 125.31,
+                                "amount": 127.68,
                                 "currency": "USD",
-                                "formattedAmount": "$125.31",
+                                "formattedAmount": "$127.68",
                                 "__typename": "Price"
                             }
                         ],
@@ -1933,15 +1880,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 135.47,
+                                "amount": 135.55,
                                 "currency": "AUD",
-                                "formattedAmount": "$135.47",
+                                "formattedAmount": "$135.55",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 73.12,
+                                "amount": 71.84,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a373.12",
+                                "formattedAmount": "\u00a371.84",
                                 "__typename": "Price"
                             },
                             {
@@ -1951,9 +1898,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 96.65,
+                                "amount": 96.92,
                                 "currency": "USD",
-                                "formattedAmount": "$96.65",
+                                "formattedAmount": "$96.92",
                                 "__typename": "Price"
                             }
                         ],
@@ -1964,49 +1911,102 @@
                     "__typename": "PartnerActivity"
                 },
                 {
-                    "canonicalCategory": "Tours, Sightseeing & Cruises",
-                    "departureInfo": "Stade de France - Saint-Denis RER, 93210 Saint-Denis, France",
+                    "canonicalCategory": "Outdoor Activities",
+                    "departureInfo": "2 Rue de Montpensier, 75001 Paris, France",
                     "descriptions": {
                         "longDescription": "",
-                        "shortDescription": "Step into the France largest stadium which hosted the finals of the FIFA World Cup 1998 and UEFA Euro Cup 2016! Learn about the architecture, sit as a spectator and walk in private areas. Your guided tour\u00a0will last 90 minutes and you will then be able to visit the Museum fulled with unique items (included in the price of your ticket).",
+                        "shortDescription": "Rue de Richelieu is a long street in central Paris, which runs from the heart of the 1st arrondissement to the north of the 2nd arrondissement. You are invited to an experience in the beauty, culture and history of the covered passages of Paris, ideal on rainy days. The charming shops and the very good restaurants that you will discover during your journey will also allow you, if you wish, to buy lots of beautiful and interesting things and to enjoy a friendly moment at a very good table at the end of the trip. 'activity.",
                         "__typename": "PartnerActivityDescriptions"
                     },
                     "duration": {
                         "unit": "HOURS",
-                        "value": 1.5,
+                        "value": 2,
                         "__typename": "PartnerActivityDuration"
                     },
-                    "id": "v-5717P26",
-                    "name": "Stade de France: Behind the Scenes Tour",
+                    "id": "v-178394P8",
+                    "name": "Escape game in the covered passages of Paris",
                     "media": {
-                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/71/9c/9d.jpg",
+                        "primaryImage": "",
                         "__typename": "PartnerActivityMedia"
                     },
                     "prices": {
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 24.49,
+                                "amount": 49.98,
                                 "currency": "AUD",
-                                "formattedAmount": "$24.49",
+                                "formattedAmount": "$49.98",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 13.22,
+                                "amount": 26.44,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a313.22",
+                                "formattedAmount": "\u00a326.44",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 15.23,
+                                "amount": 31,
                                 "currency": "EUR",
-                                "formattedAmount": "\u20ac15.23",
+                                "formattedAmount": "\u20ac31.0",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 17.47,
+                                "amount": 35.69,
                                 "currency": "USD",
-                                "formattedAmount": "$17.47",
+                                "formattedAmount": "$35.69",
+                                "__typename": "Price"
+                            }
+                        ],
+                        "__typename": "PartnerActivityPrices"
+                    },
+                    "provider": "VIATOR",
+                    "returnInfo": "Returns to original departure point",
+                    "__typename": "PartnerActivity"
+                },
+                {
+                    "canonicalCategory": "Tours, Sightseeing & Cruises",
+                    "departureInfo": "1: Paris, France2: 78000 Versailles, FranceTraveler pickup is offeredWe pick-up/drop off from all hotels and privates residences in Paris.",
+                    "descriptions": {
+                        "longDescription": "",
+                        "shortDescription": "Enjoy a half-day trip out of Paris to Versailles in the comfort of a private, WiFi-equipped Mercedes Benz. Skip-the-line tickets for Versailles get you past public queues and into the palace to see the famous Hall of Mirrors, among other rooms. This half-day trip is a great way to see Versailles with less crowds and enjoy the safety and comfort of your own private vehicle driven by an expert guide. ",
+                        "__typename": "PartnerActivityDescriptions"
+                    },
+                    "duration": {
+                        "unit": "HOURS",
+                        "value": 4,
+                        "__typename": "PartnerActivityDuration"
+                    },
+                    "id": "v-131161P6",
+                    "name": "Versailles Palace Skip The Line Access Half Day Private & Tailored Guided Tour",
+                    "media": {
+                        "primaryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/26/6f/c4.jpg",
+                        "__typename": "PartnerActivityMedia"
+                    },
+                    "prices": {
+                        "discounted": [],
+                        "regular": [
+                            {
+                                "amount": 504.34,
+                                "currency": "AUD",
+                                "formattedAmount": "$504.34",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 267.29,
+                                "currency": "GBP",
+                                "formattedAmount": "\u00a3267.29",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 313.5,
+                                "currency": "EUR",
+                                "formattedAmount": "\u20ac313.5",
+                                "__typename": "Price"
+                            },
+                            {
+                                "amount": 360.62,
+                                "currency": "USD",
+                                "formattedAmount": "$360.62",
                                 "__typename": "Price"
                             }
                         ],
@@ -2039,27 +2039,27 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 276.67,
+                                "amount": 288.6,
                                 "currency": "AUD",
-                                "formattedAmount": "$276.67",
+                                "formattedAmount": "$288.6",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 149.69,
+                                "amount": 152.66,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a3149.69",
+                                "formattedAmount": "\u00a3152.66",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 172.36,
+                                "amount": 179,
                                 "currency": "EUR",
-                                "formattedAmount": "\u20ac172.36",
+                                "formattedAmount": "\u20ac179.0",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 198.15,
+                                "amount": 206.07,
                                 "currency": "USD",
-                                "formattedAmount": "$198.15",
+                                "formattedAmount": "$206.07",
                                 "__typename": "Price"
                             }
                         ],
@@ -2092,15 +2092,15 @@
                         "discounted": [],
                         "regular": [
                             {
-                                "amount": 78.65,
+                                "amount": 78.83,
                                 "currency": "AUD",
-                                "formattedAmount": "$78.65",
+                                "formattedAmount": "$78.83",
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 42.55,
+                                "amount": 41.78,
                                 "currency": "GBP",
-                                "formattedAmount": "\u00a342.55",
+                                "formattedAmount": "\u00a341.78",
                                 "__typename": "Price"
                             },
                             {
@@ -2110,9 +2110,9 @@
                                 "__typename": "Price"
                             },
                             {
-                                "amount": 56.33,
+                                "amount": 56.36,
                                 "currency": "USD",
-                                "formattedAmount": "$56.33",
+                                "formattedAmount": "$56.36",
                                 "__typename": "Price"
                             }
                         ],

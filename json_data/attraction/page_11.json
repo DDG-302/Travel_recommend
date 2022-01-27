@@ -1,1 +1,73 @@
-{"record_count": 0, "records": {"pois": []}, "info": {"pois": {"query": "", "current_page": 8, "num_pages": 7, "per_page": 40, "total_result_count": 265, "facets": {"subtypes": {"Museum": 66, "Park": 26, "Gallery": 25, "Church": 18, "Historic Building": 13, "Monument": 11, "Landmark": 10, "Notable Building": 7, "Architecture": 6, "Gardens": 6, "Square": 6, "Cultural Centre": 5, "Cemetery": 4, "Public Art": 4, "Bridge": 3, "Sculpture": 3, "Street": 3, "Tower": 3, "Amusement Park": 2, "Aquarium": 2, "Area": 2, "Arts Centre": 2, "Basilica": 2, "Brewery": 2, "Cathedral": 2, "Chapel": 2, "Chateau": 2, "Library": 2, "Palace": 2, "Plantation": 2, "Viewpoint": 2, "Windmill": 2, "Zoo": 2, "Art Studio": 1, "Canal": 1, "Fountain": 1, "Garden": 1, "Island": 1, "Lake": 1, "Market": 1, "Mausoleum": 1, "Memorial": 1, "Mosque": 1, "Pond": 1, "Research Centre": 1, "Ruins": 1, "Sports Ground": 1, "Spring": 1, "Stadium": 1, "Statue": 1, "Synagogue": 1, "University": 1, "Vineyard": 1}}}}, "errors": {}}
+{
+    "record_count": 0,
+    "records": {
+        "pois": []
+    },
+    "info": {
+        "pois": {
+            "query": "",
+            "current_page": 8,
+            "num_pages": 7,
+            "per_page": 40,
+            "total_result_count": 265,
+            "facets": {
+                "subtypes": {
+                    "Museum": 66,
+                    "Park": 26,
+                    "Gallery": 25,
+                    "Church": 18,
+                    "Historic Building": 13,
+                    "Monument": 11,
+                    "Landmark": 10,
+                    "Notable Building": 7,
+                    "Architecture": 6,
+                    "Gardens": 6,
+                    "Square": 6,
+                    "Cultural Centre": 5,
+                    "Cemetery": 4,
+                    "Public Art": 4,
+                    "Bridge": 3,
+                    "Sculpture": 3,
+                    "Street": 3,
+                    "Tower": 3,
+                    "Amusement Park": 2,
+                    "Aquarium": 2,
+                    "Area": 2,
+                    "Arts Centre": 2,
+                    "Basilica": 2,
+                    "Brewery": 2,
+                    "Cathedral": 2,
+                    "Chapel": 2,
+                    "Chateau": 2,
+                    "Library": 2,
+                    "Palace": 2,
+                    "Plantation": 2,
+                    "Viewpoint": 2,
+                    "Windmill": 2,
+                    "Zoo": 2,
+                    "Art Studio": 1,
+                    "Canal": 1,
+                    "Fountain": 1,
+                    "Garden": 1,
+                    "Island": 1,
+                    "Lake": 1,
+                    "Market": 1,
+                    "Mausoleum": 1,
+                    "Memorial": 1,
+                    "Mosque": 1,
+                    "Pond": 1,
+                    "Research Centre": 1,
+                    "Ruins": 1,
+                    "Sports Ground": 1,
+                    "Spring": 1,
+                    "Stadium": 1,
+                    "Statue": 1,
+                    "Synagogue": 1,
+                    "University": 1,
+                    "Vineyard": 1
+                }
+            }
+        }
+    },
+    "errors": {}
+}
